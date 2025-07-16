@@ -1,416 +1,416 @@
-# Clinical Evolution Notes
+# Notas de Evolución Clínica
 
-**Patient**: Dylan Antonio Martinez Labastida  
-**Medical Record**: 345370  
-**Age**: 8 years, 8 months  
-**Service**: Pediatric ICU  
+**Paciente**: Dylan Antonio Martinez Labastida  
+**Expediente Médico**: 345370  
+**Edad**: 8 años, 8 meses  
+**Servicio**: UCI Pediátrica  
 
-## Daily Evolution Timeline
+## Cronología de Evolución Diaria
 
-### 07-07-2025 (Day 1 Post-Op) - CARRO ROJO to ICU Transfer
-**Time**: 18:25  
-**Service**: CARRO ROJO → UCI Transfer  
-**Vital Signs**: T: 36.5°C, FC: 110x', FR: 20x', T/A: 100/70  
+### 07-07-2025 (Día 1 Post-Op) - Traslado CARRO ROJO a UCI
+**Hora**: 18:25  
+**Servicio**: CARRO ROJO → Traslado UCI  
+**Signos Vitales**: T: 36.5°C, FC: 110x', FR: 20x', T/A: 100/70  
 
-**Neurological Status**:
-- RASS: -5 (Deep sedation)
-- Sedation: Midazolam 1795 mcg/kg/hr, Buprenorfina 0.96 mcg/kg/hr
-- Pallor 1+, normocephalic, pinpoint pupils
-- No abnormal movements
+**Estado Neurológico**:
+- RASS: -5 (Sedación profunda)
+- Sedación: Midazolam 1795 mcg/kg/hr, Buprenorfina 0.96 mcg/kg/hr
+- Palidez 1+, normocefálico, pupilas puntiformes
+- Sin movimientos anormales
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.3 mcg/kg/min
-- HR and BP within percentiles
-- No signs of low cardiac output
-- Precordium: rhythmic heart sounds, good tone and intensity
-- Peripheral pulses present, adequate intensity
-- Capillary refill: 2 seconds
-- IV fluids: 1800 ml/m²SC
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.3 mcg/kg/min
+- FC y TA dentro de percentiles
+- Sin signos de bajo gasto cardíaco
+- Precordio: ruidos cardíacos rítmicos, buen tono e intensidad
+- Pulsos periféricos presentes, intensidad adecuada
+- Llenado capilar: 2 segundos
+- Líquidos IV: 1800 ml/m²SC
 
-**Ventilatory Status**:
-- Phase III ventilation, CMV mode
-- FiO2: 90%, Cycles: 18, Vol: 5.5, PEEP: 5, I:E 1:2.0
-- Oxygen saturation >94%
-- Lungs well ventilated, vesicular breath sounds present
-- No rales or wheezes
+**Estado Ventilatorio**:
+- Ventilación fase III, modo CMV
+- FiO2: 90%, Ciclos: 18, Vol: 5.5, PEEP: 5, I:E 1:2.0
+- Saturación de oxígeno >94%
+- Pulmones bien ventilados, murmullo vesicular presente
+- Sin estertores ni sibilancias
 
-**Gastrointestinal Status**:
-- NPO (fasting)
-- Nasogastric tube with moderate biliary output
-- Solution scheme: 1000/50/40/100/50 GKM 1.4
-- Abdomen with adipose tissue and artisanal suction system
-- No bleeding data
-- Soft, depressible abdomen
-- Diminished peristalsis without struggle signs
-- Albumin 1 g/kg/dose q24h for hypoalbuminemia (2.2)
-- PPI: Omeprazole
+**Estado Gastrointestinal**:
+- NPO (ayuno)
+- Sonda nasogástrica con gasto biliar moderado
+- Esquema de soluciones: 1000/50/40/100/50 GKM 1.4
+- Abdomen con tejido adiposo y sistema de succión artesanal
+- Sin datos de sangrado
+- Abdomen blando, depresible
+- Peristalsis disminuida sin signos de lucha
+- Albúmina 1 g/kg/dosis c/24h por hipoalbuminemia (2.2)
+- IBP: Omeprazol
 
-**Renal Status**:
-- Diuretic support: Furosemide infusion
-- Edema 1+ in lower extremities and genital edema
-- Capillary refill: 2 seconds
-- No acute renal injury by biochemistry
-- Urine output: 2.1 in 24 hours
+**Estado Renal**:
+- Soporte diurético: Infusión de furosemida
+- Edema 1+ en extremidades inferiores y edema genital
+- Llenado capilar: 2 segundos
+- Sin lesión renal aguda por bioquímica
+- Gasto urinario: 2.1 en 24 horas
 
-**Infectious Disease Status**:
-- With dysthermias
-- No systemic inflammatory response data
-- Double antibiotic coverage: Meropenem 100 mg/kg/day + Vancomycin 40 mg/kg/day
+**Estado Infectológico**:
+- Con distermias
+- Sin datos de respuesta inflamatoria sistémica
+- Doble cobertura antibiótica: Meropenem 100 mg/kg/día + Vancomicina 40 mg/kg/día
 
-**Analysis**: First post-operative day without systemic inflammatory response data. Antibiotic coverage with Meropenem 100 mg/kg/day and Vancomycin 60 mg/kg/day. Deep sedation maintained to avoid Valsalva maneuvers that could compromise artisanal suction system integrity and subsequent evisceration risk. Continued fasting with nasogastric tube with scarce biliary output. Hemodynamically with aminergic support maintaining BP trending to hypertension. Continued in phase II ventilation with baseline parameters. Maintaining acid-base and electrolyte balance.
+**Análisis**: Primer día postoperatorio sin datos de respuesta inflamatoria sistémica. Cobertura antibiótica con Meropenem 100 mg/kg/día y Vancomicina 60 mg/kg/día. Sedación profunda mantenida para evitar maniobras de Valsalva que puedan comprometer la integridad del sistema de succión artesanal y riesgo de evisceración subsecuente. Continúa en ayuno con sonda nasogástrica con escaso gasto biliar. Hemodinámicamente con soporte aminérgico manteniendo TA con tendencia a hipertensión. Continúa en ventilación fase II con parámetros basales. Manteniendo equilibrio ácido-base y electrolítico.
 
 ---
 
-### 08-07-2025 (Day 2) - ICU Evolution
-**Time**: 13:48  
-**Service**: U.C.I.  
-**Vital Signs**: T: 36.5°C, FC: 110x', FR: 35x', T/A: 110/85  
+### 08-07-2025 (Día 2) - Evolución UCI
+**Hora**: 13:48  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 36.5°C, FC: 110x', FR: 35x', T/A: 110/85  
 
-**Neurological Status**:
-- Sedation: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
+**Estado Neurológico**:
+- Sedación: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
 - RASS: -4
-- No abnormal movements
-- Normocephalic, isocoric pupils, miotic, no light response
+- Sin movimientos anormales
+- Normocefálico, pupilas isocóricas, mióticas, sin respuesta a la luz
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.04 mcg/kg/min
-- Negative balance and preserved urine output
-- No diuretic support currently
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.04 mcg/kg/min
+- Balance negativo y gasto urinario preservado
+- Sin soporte diurético actualmente
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
 
-**Ventilatory Status**:
-- Invasive ventilation: VT 5, PEEP 6, FiO2 60%
-- Dynamic ventilator management
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax
-- No added sounds
+**Estado Ventilatorio**:
+- Ventilación invasiva: VT 5, PEEP 6, FiO2 60%
+- Manejo dinámico del ventilador
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax
+- Sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT requested
-- Monitoring hydroelectrolyte alterations
-- Surgery comments possible surgical plan for today
-- Request for blood products made
-- PPI and intermittent suction managed by pediatric surgery
-- Open abdomen covered by artisanal suction system
-- Absent peristalsis
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal solicitada
+- Vigilancia de alteraciones hidroelectrolíticas
+- Cirugía comenta posible plan quirúrgico para el día de hoy
+- Solicitados hemoderivados
+- IBP y succión intermitente manejados por cirugía pediátrica
+- Abdomen abierto cubierto por sistema de succión artesanal
+- Peristalsis ausente
 
-**Infectious Disease Status**:
-- Afebrile
-- Meropenem 100 mg/kg/day management
-- Continued Vitamin K management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Afebril
+- Manejo con Meropenem 100 mg/kg/día
+- Continúa manejo con Vitamina K
+- Vigilancia de datos de respuesta inflamatoria sistémica
 
-**Analysis**: Patient with previously mentioned diagnoses under sedoanalgesia, low-dose inotropic support, invasive ventilation, possible surgical plan today so blood products requested. Maintained with antibiotic therapy based on Meropenem, with fever rise so antipyretic management decided. Delicate patient, reserved prognosis to evolution.
+**Análisis**: Paciente con diagnósticos previamente mencionados bajo sedoanalgesia, soporte inotrópico a dosis bajas, ventilación invasiva, posible plan quirúrgico hoy por lo que se solicitaron hemoderivados. Mantenido con terapia antibiótica a base de Meropenem, con elevación febril por lo que se decidió manejo antipirético. Paciente delicado, pronóstico reservado a evolución.
 
 ---
 
-### 09-07-2025 (Day 3) - ICU Evolution
-**Time**: 13:28  
-**Service**: U.C.I.  
-**Vital Signs**: T: 37.0°C, FC: 98x', FR: 20x', T/A: 113/76  
-**Weight**: 33.7 kg (decreased from 37.7 kg)
+### 09-07-2025 (Día 3) - Evolución UCI
+**Hora**: 13:28  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 37.0°C, FC: 98x', FR: 20x', T/A: 113/76  
+**Peso**: 33.7 kg (disminuido desde 37.7 kg)
 
-**Current Diagnoses**:
-- Open abdomen status
-- Abdominal sepsis
-- Post-op LAPE + sigmoid lesion closure + ileostomy 08.07.25
-- Post-op LAPE secondary to intestinal perforation and multiple abdominal abscesses 06.07.25
-- Post-op appendectomy (complicated acute appendicitis phase IV 26.06.25) + obesity in school child
+**Diagnósticos Actuales**:
+- Estado de abdomen abierto
+- Sepsis abdominal
+- Post-op LAPE + cierre de lesión sigmoidea + ileostomía 08.07.25
+- Post-op LAPE secundario a perforación intestinal y múltiples abscesos abdominales 06.07.25
+- Post-op apendicectomía (apendicitis aguda complicada fase IV 26.06.25) + obesidad en escolar
 
-**Neurological Status**:
-- Sedation: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
-- RASS: -4, however periods of agitation requiring anesthesiology evaluation
-- No abnormal movements
-- Normocephalic, isocoric pupils, miotic, no light response
+**Estado Neurológico**:
+- Sedación: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
+- RASS: -4, sin embargo periodos de agitación requiriendo valoración por anestesiología
+- Sin movimientos anormales
+- Normocefálico, pupilas isocóricas, mióticas, sin respuesta a la luz
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.03 mcg/kg/min
-- Negative balance and preserved urine output
-- Diuretic forcing: Furosemide 10mg q8h
-- Albumin administration q8h
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.03 mcg/kg/min
+- Balance negativo y gasto urinario preservado
+- Forzado diurético: Furosemida 10mg c/8h
+- Administración de albúmina c/8h
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
 
-**Ventilatory Status**:
-- Invasive ventilation, volume controlled and flow limited
+**Estado Ventilatorio**:
+- Ventilación invasiva, controlada por volumen y limitada por flujo
 - VT 5, PEEP 6, FiO2 40%
-- Dynamic ventilator management
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax
-- No added sounds
+- Manejo dinámico del ventilador
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax
+- Sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT
-- Monitoring hydroelectrolyte alterations
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal
+- Vigilancia de alteraciones hidroelectrolíticas
 
-**Infectious Disease Status**:
-- Afebrile
-- Meropenem 100 mg/kg/day management
-- Continued Vitamin K management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Afebril
+- Manejo con Meropenem 100 mg/kg/día
+- Continúa manejo con Vitamina K
+- Vigilancia de datos de respuesta inflamatoria sistémica
 
-**Analysis**: Went to OR yesterday with presence of dehiscence of previous sigmoid repair so repair performed, plus subsequent dysfunctionalization via ileostomy. Currently no systemic inflammatory response or low output data. Maintaining established management for now.
+**Análisis**: Fue a quirófano ayer con presencia de dehiscencia de reparación sigmoidea previa por lo que se realiza reparación, más subsecuente disfuncionalización vía ileostomía. Actualmente sin datos de respuesta inflamatoria sistémica o datos de bajo gasto. Manteniendo manejo establecido por ahora.
 
 ---
 
-### 10-07-2025 (Day 4) - ICU Evolution
-**Time**: 12:30  
-**Service**: U.C.I.  
-**Vital Signs**: T: 37.0°C, FC: 89x', FR: 20x', T/A: 123/76  
+### 10-07-2025 (Día 4) - Evolución UCI
+**Hora**: 12:30  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 37.0°C, FC: 89x', FR: 20x', T/A: 123/76  
 
-**Neurological Status**:
-- Sedation: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
-- RASS: -4, however periods of agitation decided sedation rotation to Propofol
-- No abnormal movements
-- Normocephalic, isocoric pupils, miotic, no light response
+**Estado Neurológico**:
+- Sedación: Midazolam 1800 mcg/kg/hr, Buprenorfina 1 mcg/kg/hr
+- RASS: -4, sin embargo periodos de agitación se decidió rotación de sedación a Propofol
+- Sin movimientos anormales
+- Normocefálico, pupilas isocóricas, mióticas, sin respuesta a la luz
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.03 mcg/kg/min
-- Negative balance and preserved urine output
-- Diuretic forcing: Furosemide 10mg q8h
-- Albumin administration q8h
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.03 mcg/kg/min
+- Balance negativo y gasto urinario preservado
+- Forzado diurético: Furosemida 10mg c/8h
+- Administración de albúmina c/8h
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
 
-**Ventilatory Status**:
-- Invasive ventilation, volume controlled and flow limited
+**Estado Ventilatorio**:
+- Ventilación invasiva, controlada por volumen y limitada por flujo
 - VT 5, PEEP 6, FiO2 40%
-- Dynamic ventilator management
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax
-- No added sounds
+- Manejo dinámico del ventilador
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax
+- Sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT
-- Monitoring hydroelectrolyte alterations
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal
+- Vigilancia de alteraciones hidroelectrolíticas
 
-**Infectious Disease Status**:
-- Afebrile
-- Meropenem 100 mg/kg/day management
-- Continued Vitamin K management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Afebril
+- Manejo con Meropenem 100 mg/kg/día
+- Continúa manejo con Vitamina K
+- Vigilancia de datos de respuesta inflamatoria sistémica
 
-**Analysis**: No presence of low output or systemic inflammatory response data. Sedation rotation decided due to prolonged use of high Midazolam doses. Initiating Propofol 3 mg/kg/h. Continuing sedation management, still delicate, awaiting new surgical review.
+**Análisis**: Sin presencia de datos de bajo gasto o respuesta inflamatoria sistémica. Se decidió rotación de sedación debido a uso prolongado de altas dosis de Midazolam. Iniciando Propofol 3 mg/kg/h. Continuando manejo de sedación, aún delicado, en espera de nueva revisión quirúrgica.
 
 ---
 
-### 11-07-2025 (Day 5) - ICU Evolution
-**Time**: 14:17  
-**Service**: U.C.I.  
-**Vital Signs**: T: 37.0°C, FC: 112x', FR: 224x', T/A: 138/76  
+### 11-07-2025 (Día 5) - Evolución UCI
+**Hora**: 14:17  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 37.0°C, FC: 112x', FR: 224x', T/A: 138/76  
 
-**Neurological Status**:
-- Sedation: Propofol 3 mg/kg/h, Analgesia: Fentanyl 1 mcg/kg/h
+**Estado Neurológico**:
+- Sedación: Propofol 3 mg/kg/h, Analgesia: Fentanilo 1 mcg/kg/h
 - RASS: -4
-- Normocephalic, isocoric pupils, miotic, no light response
+- Normocefálico, pupilas isocóricas, mióticas, sin respuesta a la luz
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.03 mcg/kg/min
-- Negative balance and preserved urine output
-- Diuretic forcing: Furosemide 10mg PRN q8h
-- Albumin administration q8h
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.03 mcg/kg/min
+- Balance negativo y gasto urinario preservado
+- Forzado diurético: Furosemida 10mg PRN c/8h
+- Administración de albúmina c/8h
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
 
-**Ventilatory Status**:
-- Invasive ventilation, volume controlled and flow limited
+**Estado Ventilatorio**:
+- Ventilación invasiva, controlada por volumen y limitada por flujo
 - VT 5, PEEP 6, FiO2 40%
-- Dynamic ventilator management
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax
-- No added sounds
+- Manejo dinámico del ventilador
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax
+- Sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT
-- Monitoring hydroelectrolyte alterations
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal
+- Vigilancia de alteraciones hidroelectrolíticas
 
-**Infectious Disease Status**:
-- Dysthermias
-- Meropenem increased to 120 mg/kg/day
-- Continued Vitamin K management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Distermias
+- Meropenem aumentado a 120 mg/kg/día
+- Continúa manejo con Vitamina K
+- Vigilancia de datos de respuesta inflamatoria sistémica
 
-**Analysis**: No presence of low output or systemic inflammatory response data. Awaiting OR today for wall closure. Continuing sedation management, still delicate, awaiting new surgical review.
+**Análisis**: Sin presencia de datos de bajo gasto o respuesta inflamatoria sistémica. En espera de quirófano hoy para cierre de pared. Continuando manejo de sedación, aún delicado, en espera de nueva revisión quirúrgica.
 
 ---
 
-### 12-07-2025 (Day 6) - ICU Evolution
-**Time**: 14:09  
-**Service**: U.C.I.  
-**Vital Signs**: T: 37.0°C, FC: 112x', FR: 24x', T/A: 123/67  
+### 12-07-2025 (Día 6) - Evolución UCI
+**Hora**: 14:09  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 37.0°C, FC: 112x', FR: 24x', T/A: 123/67  
 
-**Current Diagnoses**:
-- **RESOLVED Open abdomen status**
-- Abdominal sepsis
-- Post-op LAPE + sigmoid lesion closure + ileostomy 08.07.25
-- Post-op LAPE secondary to intestinal perforation and multiple abdominal abscesses 06.07.25
-- Post-op appendectomy (complicated acute appendicitis phase IV 26.06.25) + obesity in school child
+**Diagnósticos Actuales**:
+- **RESUELTO Estado de abdomen abierto**
+- Sepsis abdominal
+- Post-op LAPE + cierre de lesión sigmoidea + ileostomía 08.07.25
+- Post-op LAPE secundario a perforación intestinal y múltiples abscesos abdominales 06.07.25
+- Post-op apendicectomía (apendicitis aguda complicada fase IV 26.06.25) + obesidad en escolar
 
-**Neurological Status**:
-- Sedation: Propofol 3 mg/kg/h, Analgesia: Fentanyl 1 mcg/kg/h
-- RASS: -3 (Improved from -4)
-- Normocephalic, isocoric pupils, miotic, no light response
+**Estado Neurológico**:
+- Sedación: Propofol 3 mg/kg/h, Analgesia: Fentanilo 1 mcg/kg/h
+- RASS: -3 (Mejorado desde -4)
+- Normocefálico, pupilas isocóricas, mióticas, sin respuesta a la luz
 
-**Hemodynamic Status**:
-- Aminergic support: Adrenaline 0.03 mcg/kg/min
-- Negative balance and preserved urine output
-- Diuretic forcing: Furosemide 10mg PRN q8h
-- Albumin discontinued
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- Soporte aminérgico: Adrenalina 0.03 mcg/kg/min
+- Balance negativo y gasto urinario preservado
+- Forzado diurético: Furosemida 10mg PRN c/8h
+- Albúmina suspendida
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
 
-**Ventilatory Status**:
-- Invasive ventilation, volume controlled and flow limited
+**Estado Ventilatorio**:
+- Ventilación invasiva, controlada por volumen y limitada por flujo
 - VT 5, PEEP 6, FiO2 40%
-- Dynamic ventilator management
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax
-- No added sounds
+- Manejo dinámico del ventilador
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax
+- Sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT
-- Monitoring hydroelectrolyte alterations
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal
+- Vigilancia de alteraciones hidroelectrolíticas
 
-**Infectious Disease Status**:
-- Dysthermias
-- Meropenem 120 mg/kg/day
-- Continued Vitamin K management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Distermias
+- Meropenem 120 mg/kg/día
+- Continúa manejo con Vitamina K
+- Vigilancia de datos de respuesta inflamatoria sistémica
 
-**Analysis**: Discrete clinical improvement evolution. No presence of low output or systemic inflammatory response data. Having achieved abdominal wall closure, so sedation withdrawn to test neurological window. Still delicate, not exempt from complications.
-
----
-
-### 13-07-2025 (Day 7) - ICU Evolution - EXTUBATION
-**Time**: 13:40  
-**Service**: U.C.I.  
-**Vital Signs**: T: 36.7°C, FC: 96x', FR: 26x', T/A: 96/62  
-
-**Key Milestone**: **SUCCESSFUL EXTUBATION PERFORMED**
-
-**Neurological Status**:
-- Sedation withdrawn, continuing analgesia with Buprenorfina 0.5 mcg/kg/hr, Ketorolac and Paracetamol
-- Epidural catheter removed
-- FLACC: 1 point, RASS: -1
-- Normocephalic, isometric pupils reactive to light
-- No abnormal postures
-
-**Hemodynamic Status**:
-- **Aminergic support withdrawn**
-- Maintaining heart rates and blood pressures within percentiles
-- Total projected fluids: 1512 ml/SC/day
-- Mean urine output: 1.2 ml/kg/hr
-- Hydric balance: -118
-- Scheduled diuretic suspended
-- Adequate mucutegumental coloration
-- Normodinamic precordium, rhythmic heart sounds, no murmurs
-- Symmetric palpable pulses
-- Capillary refill: 2 seconds
-- Hand edema present
-
-**Ventilatory Status**:
-- **Successfully extubated** from invasive ventilation in spontaneous mode
-- Progressed to Phase I with reservoir mask
-- Transient stridor and expiratory wheezes post-extubation with remission after inhalation therapy
-- Control chest X-ray without pleuropulmonary complications
-- Symmetric ventilatory mechanics
-- Lungs well ventilated, no added sounds
-
-**Gastrointestinal Status**:
-- NPO with parenteral nutrition
-- Baseline parameters
-- No metabolic imbalances
-- Abdomen with ileostomy status, pink borders, no vascular compromise signs
-- Surgical wound without dehiscence or secretions
-- Soft, depressible abdomen, no masses palpable
-- Diminished peristalsis
-- No peritoneal irritation data
-
-**Infectious Disease Status**:
-- Yesterday with dysthermias, systemic inflammatory response data
-- Continued monotherapy with Meropenem adjusted to 120 mg/kg/day, now day 7
-
-**Renal Status**:
-- Urine output through urinary catheter, planned removal
-- Urine output: 1.2 ml/kg/hr
-
-**Analysis**: Dylan, patient with insidious evolution, hemodynamically stable, adequate extubation performed with clinical tolerance so far. Continues with broad-coverage monotherapy without systemic or abdominal compromise data. Reported delicate, with risk of complications.
+**Análisis**: Evolución de discreta mejoría clínica. Sin presencia de datos de bajo gasto o respuesta inflamatoria sistémica. Habiendo logrado cierre de pared abdominal, por lo que se retira sedación para prueba de ventana neurológica. Aún delicado, no exento de complicaciones.
 
 ---
 
-### 14-07-2025 (Day 8) - ICU Evolution
-**Time**: 13:15  
-**Service**: U.C.I.  
-**Vital Signs**: T: 37.0°C, FC: 105x', FR: 24x', T/A: 112/68  
+### 13-07-2025 (Día 7) - Evolución UCI - EXTUBACIÓN
+**Hora**: 13:40  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 36.7°C, FC: 96x', FR: 26x', T/A: 96/62  
 
-**Current Diagnoses**:
-- Resolved open abdomen status
-- **Abdominal sepsis under treatment**
-- Post-op LAPE + sigmoid lesion closure + ileostomy 08.07.25
-- Post-op LAPE secondary to intestinal perforation and multiple abdominal abscesses 06.07.25
-- Post-op appendectomy (complicated acute appendicitis phase IV 26.06.25) + obesity in school child
+**Hito Clave**: **EXTUBACIÓN EXITOSA REALIZADA**
 
-**Neurological Status**:
-- No sedation
-- Opioid analgesia: Buprenorfina 0.3 mcg/kg/h, adjusted NSAID doses for pain control
-- Alert, cooperative, no presence of postures or abnormal movements
-- Interacts, follows instructions
+**Estado Neurológico**:
+- Sedación retirada, continuando analgesia con Buprenorfina 0.5 mcg/kg/hr, Ketorolaco y Paracetamol
+- Catéter epidural retirado
+- FLACC: 1 punto, RASS: -1
+- Normocefálico, pupilas isométricas reactivas a la luz
+- Sin posturas anormales
 
-**Hemodynamic Status**:
-- No vasoactive amines
-- Negative balance and preserved urine output
-- Diuretic forcing: Furosemide 10mg PRN q8h due to bilateral pleural effusion
-- Normodinamic precordium, normophonetic
-- Central and peripheral pulses present
-- Capillary refill: 2 seconds
+**Estado Hemodinámico**:
+- **Soporte aminérgico retirado**
+- Manteniendo frecuencias cardíacas y tensiones arteriales dentro de percentiles
+- Líquidos totales proyectados: 1512 ml/SC/día
+- Gasto urinario promedio: 1.2 ml/kg/hr
+- Balance hídrico: -118
+- Diurético programado suspendido
+- Coloración mucotegumentaria adecuada
+- Precordio normodinámico, ruidos cardíacos rítmicos, sin soplos
+- Pulsos simétricos palpables
+- Llenado capilar: 2 segundos
+- Edema en manos presente
 
-**Ventilatory Status**:
-- Oxygen with Puritan system maintaining oximetry
-- Chest X-ray with presence of bilateral pleural effusion, adjusting fluid intake
-- Good air entry and exit
-- Vesicular breath sounds present in both hemithorax, although diminished towards bases
-- No added sounds
+**Estado Ventilatorio**:
+- **Extubado exitosamente** de ventilación invasiva en modo espontáneo
+- Progresó a Fase I con mascarilla reservorio
+- Estridor transitorio y sibilancias espiratorias post-extubación con remisión posterior a terapia inhalatoria
+- Radiografía de tórax de control sin complicaciones pleuropulmonares
+- Mecánica ventilatoria simétrica
+- Pulmones bien ventilados, sin ruidos agregados
 
-**Gastrointestinal Status**:
-- NPO with solution scheme
-- Basal NPT
-- **Decided to initiate enteral stimulation with liquid diet**
-- Monitoring hydroelectrolyte alterations
-- Globose abdomen due to adipose tissue
-- Surgical site with erythema at borders
-- Curations performed by pediatric surgery service
-- Abundant secretion through wound, apparently seroma characteristics
-- Curations indicated per shift managed by surgery
+**Estado Gastrointestinal**:
+- NPO con nutrición parenteral
+- Parámetros basales
+- Sin desequilibrios metabólicos
+- Abdomen con estado de ileostomía, bordes rosados, sin signos de compromiso vascular
+- Herida quirúrgica sin dehiscencia ni secreciones
+- Abdomen blando, depresible, sin masas palpables
+- Peristalsis disminuida
+- Sin datos de irritación peritoneal
 
-**Infectious Disease Status**:
-- No fever, however scheduled antipyretic administration
-- Suspended and monitoring thermal curve
-- Meropenem 120 mg/kg/day management
-- Monitoring for systemic inflammatory response data
+**Estado Infectológico**:
+- Ayer con distermias, datos de respuesta inflamatoria sistémica
+- Continúa monoterapia con Meropenem ajustado a 120 mg/kg/día, ahora día 7
 
-**Analysis**: Discrete clinical improvement evolution. No presence of low output or systemic inflammatory response data. Tolerating extubation so far, however not exempt from requiring new advanced airway management. Still delicate, not exempt from complications.
+**Estado Renal**:
+- Gasto urinario a través de sonda vesical, planeado retiro
+- Gasto urinario: 1.2 ml/kg/hr
 
-## Summary Statistics
+**Análisis**: Dylan, paciente con evolución tórpida, hemodinámicamente estable, se realiza extubación adecuada con tolerancia clínica hasta el momento. Continúa con monoterapia de amplio espectro sin datos de compromiso sistémico o abdominal. Se reporta delicado, con riesgo de complicaciones.
 
-**Total Evolution Notes Analyzed**: 8 notes  
-**Duration of ICU Stay**: 8 days (07-07-2025 to 14-07-2025)  
-**Key Milestones**:
-- Day 1: ICU admission post-surgery
-- Day 3: Second surgery (ileostomy creation)  
-- Day 6: Abdominal wall closure achieved
-- Day 7: Successful extubation
-- Day 8: Enteral feeding initiation
+---
 
-**Prognosis**: Reserved throughout entire period
-**Clinical Trajectory**: Gradual improvement with complications managed
+### 14-07-2025 (Día 8) - Evolución UCI
+**Hora**: 13:15  
+**Servicio**: U.C.I.  
+**Signos Vitales**: T: 37.0°C, FC: 105x', FR: 24x', T/A: 112/68  
+
+**Diagnósticos Actuales**:
+- Estado de abdomen abierto resuelto
+- **Sepsis abdominal en tratamiento**
+- Post-op LAPE + cierre de lesión sigmoidea + ileostomía 08.07.25
+- Post-op LAPE secundario a perforación intestinal y múltiples abscesos abdominales 06.07.25
+- Post-op apendicectomía (apendicitis aguda complicada fase IV 26.06.25) + obesidad en escolar
+
+**Estado Neurológico**:
+- Sin sedación
+- Analgesia opioide: Buprenorfina 0.3 mcg/kg/h, dosis de AINEs ajustadas para control del dolor
+- Alerta, cooperador, sin presencia de posturas o movimientos anormales
+- Interactúa, sigue instrucciones
+
+**Estado Hemodinámico**:
+- Sin aminas vasoactivas
+- Balance negativo y gasto urinario preservado
+- Forzado diurético: Furosemida 10mg PRN c/8h por derrame pleural bilateral
+- Precordio normodinámico, normofonético
+- Pulsos centrales y periféricos presentes
+- Llenado capilar: 2 segundos
+
+**Estado Ventilatorio**:
+- Oxígeno con sistema Puritan manteniendo oximetría
+- Radiografía de tórax con presencia de derrame pleural bilateral, ajustando aporte de líquidos
+- Buena entrada y salida de aire
+- Murmullo vesicular presente en ambos hemitórax, aunque disminuido hacia bases
+- Sin ruidos agregados
+
+**Estado Gastrointestinal**:
+- NPO con esquema de soluciones
+- NPT basal
+- **Se decidió iniciar estimulación enteral con dieta líquida**
+- Vigilancia de alteraciones hidroelectrolíticas
+- Abdomen globoso por tejido adiposo
+- Sitio quirúrgico con eritema en bordes
+- Curaciones realizadas por servicio de cirugía pediátrica
+- Secreción abundante a través de herida, aparentemente características de seroma
+- Curaciones indicadas por turno manejadas por cirugía
+
+**Estado Infectológico**:
+- Sin fiebre, sin embargo administración de antipirético programado
+- Suspendido y vigilancia de curva térmica
+- Manejo con Meropenem 120 mg/kg/día
+- Vigilancia de datos de respuesta inflamatoria sistémica
+
+**Análisis**: Evolución de discreta mejoría clínica. Sin presencia de datos de bajo gasto o respuesta inflamatoria sistémica. Tolerando extubación hasta el momento, sin embargo no exento de requerir nuevo manejo avanzado de vía aérea. Aún delicado, no exento de complicaciones.
+
+## Estadísticas Resumen
+
+**Total de Notas de Evolución Analizadas**: 8 notas  
+**Duración de Estancia en UCI**: 8 días (07-07-2025 al 14-07-2025)  
+**Hitos Clave**:
+- Día 1: Ingreso a UCI post-cirugía
+- Día 3: Segunda cirugía (creación de ileostomía)  
+- Día 6: Cierre de pared abdominal logrado
+- Día 7: Extubación exitosa
+- Día 8: Inicio de alimentación enteral
+
+**Pronóstico**: Reservado durante todo el período
+**Trayectoria Clínica**: Mejoría gradual con complicaciones manejadas

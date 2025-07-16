@@ -1,30 +1,30 @@
-# HLDE Medical Record Master Index
-## Dylan Antonio Martinez Labastida - Patient ID: 345370
+# Índice Maestro de Expediente Médico HLDE
+## Dylan Antonio Martinez Labastida - ID Paciente: 345370
 
 ---
-**🔥 EMERGENCY ACCESS - Critical Information** | **⚡ ≤2 CLICKS TO VITAL DATA**
+**🔥 ACCESO DE EMERGENCIA - Información Crítica** | **⚡ ≤2 CLICS A DATOS VITALES**
 ---
 
-### 🚨 **EMERGENCY QUICK ACCESS** (Critical Information)
+### 🚨 **ACCESO RÁPIDO DE EMERGENCIA** (Información Crítica)
 
-| **CRITICAL STATUS** | **DIRECT LINK** | **LAST UPDATE** |
+| **ESTADO CRÍTICO** | **ENLACE DIRECTO** | **ÚLTIMA ACTUALIZACIÓN** |
 |---------------------|-----------------|-----------------|
-| **🔴 Current Condition** | [Current Status](#current-medical-status) | 2025-07-15 |
-| **💊 Active Medications** | [Medication Protocols](#active-medications) | 2025-07-15 |
-| **🩸 Latest Laboratory** | [Lab Results](#latest-laboratory) | 2025-07-14 |
-| **🏥 Surgical Status** | [Open Abdomen Status](#surgical-status) | 2025-07-08 |
-| **⚠️ Active Diagnoses** | [Primary Diagnoses](#active-diagnoses) | 2025-07-15 |
+| **🔴 Condición Actual** | [Estado Actual](#estado-medico-actual) | 2025-07-15 |
+| **💊 Medicamentos Activos** | [Protocolos de Medicación](#medicamentos-activos) | 2025-07-15 |
+| **🩸 Laboratorio Reciente** | [Resultados de Laboratorio](#laboratorio-reciente) | 2025-07-14 |
+| **🏥 Estado Quirúrgico** | [Estado de Abdomen Abierto](#estado-quirurgico) | 2025-07-08 |
+| **⚠️ Diagnósticos Activos** | [Diagnósticos Primarios](#diagnosticos-activos) | 2025-07-15 |
 
 ---
 
-### 📊 **PATIENT OVERVIEW**
-- **Name**: Dylan Antonio Martinez Labastida
-- **Age**: 8 years, 8 months
-- **DOB**: October 15, 2016
+### 📊 **RESUMEN DEL PACIENTE**
+- **Nombre**: Dylan Antonio Martinez Labastida
+- **Edad**: 8 años, 8 meses
+- **Fecha de Nacimiento**: 15 de octubre, 2016
 - **ID**: 345370
-- **Admission**: July 6, 2025 (13:17)
-- **Current Location**: Pediatric ICU
-- **Current Status**: Critical - Open Abdomen, Mechanical Ventilation
+- **Ingreso**: 6 de julio, 2025 (13:17)
+- **Ubicación Actual**: UCI Pediátrica
+- **Estado Actual**: Crítico - Abdomen Abierto, Ventilación Mecánica
 
 ---
 
@@ -33,37 +33,37 @@
 #### 🏥 **PATIENT CORE INFORMATION**
 | Module | Content | Quick Access | Emergency Level |
 |--------|---------|-------------|----------------|
-| **[01-Demographics](../patient-core/01-demographics-identification.md)** | Patient ID, family, contact info | [Basic Info](#patient-demographics) | 🟡 Medium |
-| **[02-Medical Background](../patient-core/02-medical-background.md)** | Family history, allergies, previous conditions | [Allergies](#allergies-alerts) | 🟠 High |
-| **[03-Admission Context](../patient-core/03-admission-context.md)** | Referral reason, initial presentation | [Transfer Notes](#admission-context) | 🟡 Medium |
+| **[01-Demographics](../01-datos-paciente/perfil-demografico.md)** | Patient ID, family, contact info | [Basic Info](#patient-demographics) | 🟡 Medium |
+| **[02-Medical Background](../01-datos-paciente/perfil-demografico.md#antecedentes-medicos)** | Family history, allergies, previous conditions | [Allergies](#allergies-alerts) | 🟠 High |
+| **[03-Admission Context](../01-datos-paciente/perfil-demografico.md#contexto-ingreso)** | Referral reason, initial presentation | [Transfer Notes](#admission-context) | 🟡 Medium |
 
 #### ⏰ **CLINICAL TIMELINE**
 | Module | Content | Quick Access | Emergency Level |
 |--------|---------|-------------|----------------|
-| **[04-Chronological Timeline](../clinical-timeline/04-chronological-timeline.md)** | Complete case progression | [Timeline](#clinical-progression) | 🟠 High |
-| **[05-Evolution Notes](../clinical-timeline/05-evolution-notes-compiled.md)** | Daily progress notes | [Latest Notes](#recent-evolution) | 🔴 Critical |
-| **[06-Transfer Notes](../clinical-timeline/06-transfer-notes.md)** | Inter-hospital transfers | [Transfer History](#transfers) | 🟡 Medium |
+| **[04-Chronological Timeline](../02-cronologia-clinica/progresion-cronologica.md)** | Complete case progression | [Timeline](#clinical-progression) | 🟠 High |
+| **[05-Evolution Notes](../05-evaluaciones/notas-evolucion.md)** | Daily progress notes | [Latest Notes](#recent-evolution) | 🔴 Critical |
+| **[06-Transfer Notes](../02-cronologia-clinica/progresion-cronologica.md#notas-traslado)** | Inter-hospital transfers | [Transfer History](#transfers) | 🟡 Medium |
 
 #### 🔬 **DIAGNOSTIC DATA**
 | Module | Content | Quick Access | Emergency Level |
 |--------|---------|-------------|----------------|
-| **[07-Laboratory Studies](../diagnostics/07-laboratory-studies.md)** | All lab results with trends | [Latest Labs](#latest-laboratory) | 🔴 Critical |
-| **[08-Imaging Studies](../diagnostics/08-imaging-studies.md)** | X-rays, CT, ultrasound reports | [Recent Imaging](#imaging-results) | 🟠 High |
-| **[09-Diagnostic Summaries](../diagnostics/09-diagnostic-summaries.md)** | Consolidated diagnostic assessments | [Diagnosis Summary](#diagnostic-summary) | 🟠 High |
+| **[07-Laboratory Studies](../03-diagnosticos/resultados-laboratorio.md)** | All lab results with trends | [Latest Labs](#latest-laboratory) | 🔴 Critical |
+| **[08-Imaging Studies](../03-diagnosticos/estudios-imagen.md)** | X-rays, CT, ultrasound reports | [Recent Imaging](#imaging-results) | 🟠 High |
+| **[09-Diagnostic Summaries](../05-evaluaciones/conclusiones-diagnosticas.md)** | Consolidated diagnostic assessments | [Diagnosis Summary](#diagnostic-summary) | 🟠 High |
 
 #### 💉 **TREATMENT PROTOCOLS**
 | Module | Content | Quick Access | Emergency Level |
 |--------|---------|-------------|----------------|
-| **[10-Surgical Procedures](../treatment/10-surgical-procedures.md)** | All surgical interventions | [Surgical History](#surgical-procedures) | 🔴 Critical |
-| **[11-Medication Protocols](../treatment/11-medication-protocols.md)** | Current and past medications | [Active Meds](#active-medications) | 🔴 Critical |
-| **[12-Monitoring Parameters](../treatment/12-monitoring-parameters.md)** | Vital signs, ventilator settings | [Current Monitoring](#monitoring-status) | 🔴 Critical |
+| **[10-Surgical Procedures](../04-tratamientos/procedimientos-quirurgicos.md)** | All surgical interventions | [Surgical History](#surgical-procedures) | 🔴 Critical |
+| **[11-Medication Protocols](../04-tratamientos/protocolos-medicacion.md)** | Current and past medications | [Active Meds](#active-medications) | 🔴 Critical |
+| **[12-Monitoring Parameters](../04-tratamientos/cuidados-soporte.md)** | Vital signs, ventilator settings | [Current Monitoring](#monitoring-status) | 🔴 Critical |
 
 #### 📋 **CURRENT ASSESSMENT**
 | Module | Content | Quick Access | Emergency Level |
 |--------|---------|-------------|----------------|
-| **[13-Current Status](../assessment/13-current-status.md)** | Real-time patient condition | [Current Status](#current-medical-status) | 🔴 Critical |
-| **[14-Active Diagnoses](../assessment/14-diagnoses-active.md)** | Current active diagnoses | [Diagnoses](#active-diagnoses) | 🔴 Critical |
-| **[15-Clinical Assessments](../assessment/15-clinical-assessments.md)** | Medical team assessments | [Latest Assessment](#clinical-assessment) | 🟠 High |
+| **[13-Current Status](../05-evaluaciones/estado-actual.md)** | Real-time patient condition | [Current Status](#current-medical-status) | 🔴 Critical |
+| **[14-Active Diagnoses](../05-evaluaciones/conclusiones-diagnosticas.md)** | Current active diagnoses | [Diagnoses](#active-diagnoses) | 🔴 Critical |
+| **[15-Clinical Assessments](../05-evaluaciones/notas-evolucion.md)** | Medical team assessments | [Latest Assessment](#clinical-assessment) | 🟠 High |
 
 ---
 
@@ -196,23 +196,23 @@ coagulation, blood-gas, lactate, cultures, procalcitonin
 
 <a name="current-medical-status"></a>
 #### **Current Medical Status**
-→ [13-Current Status](../assessment/13-current-status.md) | [Latest Evolution](../clinical-timeline/05-evolution-notes-compiled.md#latest)
+→ [13-Current Status](../05-evaluaciones/estado-actual.md) | [Latest Evolution](../05-evaluaciones/notas-evolucion.md#latest)
 
 <a name="active-medications"></a>
 #### **Active Medications** 
-→ [11-Medication Protocols](../treatment/11-medication-protocols.md#current-regimen) | [Dosing Schedule](../treatment/11-medication-protocols.md#dosing)
+→ [11-Medication Protocols](../04-tratamientos/protocolos-medicacion.md#current-regimen) | [Dosing Schedule](../04-tratamientos/protocolos-medicacion.md#dosing)
 
 <a name="latest-laboratory"></a>
 #### **Latest Laboratory**
-→ [07-Laboratory Studies](../diagnostics/07-laboratory-studies.md#latest-results) | [Trending](../diagnostics/07-laboratory-studies.md#trends)
+→ [07-Laboratory Studies](../03-diagnosticos/resultados-laboratorio.md#latest-results) | [Trending](../03-diagnosticos/resultados-laboratorio.md#trends)
 
 <a name="surgical-status"></a>
 #### **Surgical Status**
-→ [10-Surgical Procedures](../treatment/10-surgical-procedures.md#current-status) | [Open Abdomen Management](../treatment/10-surgical-procedures.md#open-abdomen)
+→ [10-Surgical Procedures](../04-tratamientos/procedimientos-quirurgicos.md#current-status) | [Open Abdomen Management](../04-tratamientos/procedimientos-quirurgicos.md#open-abdomen)
 
 <a name="active-diagnoses"></a>
 #### **Active Diagnoses**
-→ [14-Active Diagnoses](../assessment/14-diagnoses-active.md) | [Primary Problems](../assessment/14-diagnoses-active.md#primary)
+→ [14-Active Diagnoses](../05-evaluaciones/conclusiones-diagnosticas.md) | [Primary Problems](../05-evaluaciones/conclusiones-diagnosticas.md#primary)
 
 ---
 
@@ -226,6 +226,6 @@ coagulation, blood-gas, lactate, cultures, procalcitonin
 
 ---
 
-**🔗 Related Navigation**: [Quick Access Dashboard](quick-access-dashboard.md) | [Cross-References](cross-references.md) | [Search Guide](search-guide.md)
+**🔗 Related Navigation**: [Quick Access Dashboard](panel-acceso-rapido.md) | [Cross-References](referencias-cruzadas.md) | [Search Guide](guia-busqueda.md)
 
 **⚡ Emergency Protocol**: In case of immediate need, use **EMERGENCY QUICK ACCESS** section above for ≤1 click access to critical information.

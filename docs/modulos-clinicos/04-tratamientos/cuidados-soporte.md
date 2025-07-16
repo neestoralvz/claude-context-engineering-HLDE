@@ -1,29 +1,29 @@
-# Supportive Care Protocols
+# Protocolos de Cuidados de Soporte
 
-## Patient Overview
-**Patient:** Dylan Antonio Martinez Labastida  
-**Age:** 8 years  
-**Weight:** 37.70kg → 33.70kg (critical phase)  
+## Resumen del Paciente
+**Paciente:** Dylan Antonio Martinez Labastida  
+**Edad:** 8 años  
+**Peso:** 37.70kg → 33.70kg (fase crítica)  
 
 ---
 
-## Respiratory Support
+## Soporte Respiratorio
 
-### Phase I: Pre-Intubation
-**Status:** Sin deterioro ventilatorio
+### Fase I: Pre-Intubación
+**Estado:** Sin deterioro ventilatorio
 - Paciente estable respiratoriamente al ingreso
 - Campos pulmonares ventilados bilateralmente
 
-### Phase II: Intraoperative Intubation (July 6, 2025)
-**Intubation Details:**
+### Fase II: Intubación Intraoperatoria (6 de julio, 2025)
+**Detalles de Intubación:**
 - **Cánula:** 5.5 FR con globo
 - **Posición:** Fija en 16.5 cm de arcada dental
 - **Técnica:** Al primer intento (anestesiología)
 - **Indicación:** Cirugía mayor + inestabilidad hemodinámica
 
-### Phase III: Mechanical Ventilation - Intensive Phase
-**Ventilator Settings (July 6-7, 2025):**
-- **Modo:** SIMV (Synchronized Intermittent Mandatory Ventilation)
+### Fase III: Ventilación Mecánica - Fase Intensiva
+**Configuración del Ventilador (6-7 de julio, 2025):**
+- **Modo:** SIMV (Ventilación Mandatoria Intermitente Sincronizada)
 - **FiO2:** 35% → 45% → 35% (ajuste por hiperoxemia)
 - **Volumen tidal:** 7.4ml/kg → 5ml/kg
 - **PEEP:** 5 cmH2O → 6 cmH2O
@@ -31,33 +31,33 @@
 - **I:E:** 1:2.3
 - **Oximetría:** >94% mantenida
 
-**Monitoring:**
+**Monitoreo:**
 - Gasometrías arteriales frecuentes
 - Ajuste de FiO2 por hiperoxemia
 - Manejo dinámico del ventilador
 
-### Phase III: Controlled Mechanical Ventilation (July 8-12, 2025)
-**Ventilator Settings:**
-- **Modo:** CMV (Controlled Mechanical Ventilation) → Controlado por volumen
+### Fase III: Ventilación Mecánica Controlada (8-12 de julio, 2025)
+**Configuración del Ventilador:**
+- **Modo:** CMV (Ventilación Mecánica Controlada) → Controlado por volumen
 - **FiO2:** 60% → 90% (según requerimientos)
 - **Volumen tidal:** 5.5ml/kg
 - **PEEP:** 6 cmH2O
 - **Limitado por flujo**
 
-**Clinical Findings:**
+**Hallazgos Clínicos:**
 - Campos pulmonares bien ventilados
 - Murmullo vesicular presente bilateralmente
 - Sin estertores ni sibilancias
 - Sin síndrome pleuropulmonar inicial
 
-### Phase IV: Weaning Preparation (July 13, 2025)
-**Ventilator Transition:**
+### Fase IV: Preparación para Destete (13 de julio, 2025)
+**Transición del Ventilador:**
 - **Modo:** Modalidad espontánea (preparación para extubación)
 - Pruebas de ventilación espontánea
 - Evaluación de drive respiratorio
 
-### Phase V: Successful Extubation (July 13, 2025)
-**Extubation Process:**
+### Fase V: Extubación Exitosa (13 de julio, 2025)
+**Proceso de Extubación:**
 - **Extubación programada exitosa**
 - **Progresión:** Fase I con mascarilla reservorio
 - **Complicaciones menores:**
@@ -65,66 +65,66 @@
   - Sibilancias espiratorias transitorias
   - Remisión espontánea
 
-**Post-Extubation Support:**
+**Soporte Post-Extubación:**
 - Oxigenoterapia con mascarilla reservorio
 - Monitoreo estrecho de saturación
 - Vigilancia de signos de falla respiratoria
 
-### Phase VI: Respiratory Independence (July 14, 2025)
-**Current Status:**
+### Fase VI: Independencia Respiratoria (14 de julio, 2025)
+**Estado Actual:**
 - Tolerando extubación adecuadamente
 - Campos pulmonares con buena entrada y salida de aire
 - Murmullo vesicular presente aunque disminuido
-- **Complicación:** Derrame pleural bilateral (manejado con furosemide)
+- **Complicación:** Derrame pleural bilateral (manejado con furosemida)
 
 ---
 
-## Hemodynamic Support
+## Soporte Hemodinámico
 
-### Pre-Operative Stability
-**Status:** Hemodinámicamente estable al ingreso
+### Estabilidad Pre-Operatoria
+**Estado:** Hemodinámicamente estable al ingreso
 - Signos vitales dentro de percentiles para edad
 - Sin datos de bajo gasto cardíaco
 
-### Intraoperative Hemodynamic Crisis (July 6, 2025)
-**Crisis Management:**
-- **Trigger:** Cifras tensionales por debajo de percentil durante cirugía
-- **Initial Response:** Carga con solución Hartmann 10ml/kg (sin respuesta)
-- **Vasopresor Support:** 
+### Crisis Hemodinámica Intraoperatoria (6 de julio, 2025)
+**Manejo de Crisis:**
+- **Desencadenante:** Cifras tensionales por debajo de percentil durante cirugía
+- **Respuesta Inicial:** Carga con solución Hartmann 10ml/kg (sin respuesta)
+- **Soporte Vasopresor:** 
   - Norepinefrina: Máximo 1mcg/kg/min intraoperatorio
   - Posterior descenso a 0.1mcg/kg/min post-operatorio
 
-### ICU Hemodynamic Management (July 6-14, 2025)
+### Manejo Hemodinámico en UCI (6-14 de julio, 2025)
 
-#### **Phase 1: Acute Support (July 6-7, 2025)**
-**Vasopresor Protocol:**
+#### **Fase 1: Soporte Agudo (6-7 de julio, 2025)**
+**Protocolo Vasopresor:**
 - **Noradrenalina:** 0.3mcg/kg/min
-- **Rationale:** Tensiones arteriales sobre percentil
-- **Adjustment:** Descenso progresivo a 0.1mcg/kg/min
-- **Monitoring:** Frecuencias cardíacas y tensiones arteriales dentro de percentiles
+- **Fundamento:** Tensiones arteriales sobre percentil
+- **Ajuste:** Descenso progresivo a 0.1mcg/kg/min
+- **Monitoreo:** Frecuencias cardíacas y tensiones arteriales dentro de percentiles
 
-**Clinical Assessment:**
+**Evaluación Clínica:**
 - Sin datos de bajo gasto cardíaco
-- Precordio con ruidos cardíacas rítmicos de buen tono e intensidad
+- Precordio con ruidos cardíacos rítmicos de buen tono e intensidad
 - No se auscultan soplos
 - Pulsos periféricos presentes y de adecuada intensidad
 - Llenado capilar: 2 segundos
 
-#### **Phase 2: Transition to Epinephrine (July 7-12, 2025)**
-**Medication Transition:**
+#### **Fase 2: Transición a Epinefrina (7-12 de julio, 2025)**
+**Transición de Medicación:**
 - **Adrenalina:** Cambio de noradrenalina
-- **Dosing Evolution:**
+- **Evolución de Dosis:**
   - 0.5mcg/kg/min → 0.04mcg/kg/min → 0.03mcg/kg/min
-- **Clinical Response:** Estabilización progresiva
+- **Respuesta Clínica:** Estabilización progresiva
 
-**Hemodynamic Monitoring:**
-- Precordio normodinámico, normofoneético
+**Monitoreo Hemodinámico:**
+- Precordio normodinámico, normofonético
 - Pulsos centrales y periféricos presentes
 - Llenado capilar: 2 segundos mantenido
 - Balance hídrico negativo con uresis conservada
 
-#### **Phase 3: Weaning (July 12-14, 2025)**
-**Successful Weaning:**
+#### **Fase 3: Destete (12-14 de julio, 2025)**
+**Destete Exitoso:**
 - Suspensión progresiva de soporte vasopresor
 - Mantenimiento de estabilidad hemodinámica
 - Sin datos de bajo gasto cardíaco
@@ -132,122 +132,122 @@
 
 ---
 
-## Fluid and Electrolyte Management
+## Manejo de Líquidos y Electrolitos
 
-### Acute Phase Fluid Management (July 6-8, 2025)
+### Manejo de Líquidos Fase Aguda (6-8 de julio, 2025)
 
-#### **Initial Fluid Requirements:**
+#### **Requerimientos Iniciales de Líquidos:**
 - **Líquidos IV totales:** 2000ml/m²SC/día → 1800ml/m²SC/día
 - **Esquema de soluciones:** 860/50/40 → 1000/50/40/100/50 GKM 1.4
 
-#### **Electrolyte Corrections:**
+#### **Correcciones Electrolíticas:**
 - **Hipokalemia:** Aporte total 60mEq/m²SC/día
-- **Hipoalbuminemia:** Albumina 1gr/kg/dosis cada 24 horas (nivel inicial 1.9)
+- **Hipoalbuminemia:** Albúmina 1gr/kg/dosis cada 24 horas (nivel inicial 1.9)
 
-### Fluid Optimization Phase (July 8-12, 2025)
+### Fase de Optimización de Líquidos (8-12 de julio, 2025)
 
-#### **Diuretic Protocol:**
-- **Furosemide:** 0.5mg/kg/dosis → infusión continua → 10mg cada 8 horas
-- **Indication:** Sobrecarga hídrica, edema en extremidades inferiores y genital
-- **Monitoring:** Volúmenes urinarios, balance hídrico
+#### **Protocolo Diurético:**
+- **Furosemida:** 0.5mg/kg/dosis → infusión continua → 10mg cada 8 horas
+- **Indicación:** Sobrecarga hídrica, edema en extremidades inferiores y genital
+- **Monitoreo:** Volúmenes urinarios, balance hídrico
 
-#### **Balance Management:**
+#### **Manejo de Balance:**
 - **Uresis:** 2.1ml/kg/24h → 1.2ml/kg/hr media
 - **Balance hídrico:** Progresión a balance negativo (-118ml)
 - **Proyección de líquidos:** 1512ml/SC/día
 
-### Recovery Phase (July 13-14, 2025)
+### Fase de Recuperación (13-14 de julio, 2025)
 
-#### **Fluid Normalization:**
+#### **Normalización de Líquidos:**
 - Suspensión de diurético con horario
 - Uresis espontánea adecuada
 - Resolución de edemas
-- **Complicación:** Derrame pleural bilateral (tratado con furosemide PRN)
+- **Complicación:** Derrame pleural bilateral (tratado con furosemida PRN)
 
 ---
 
-## Nutritional Support
+## Soporte Nutricional
 
-### Acute Phase: Complete Bowel Rest (July 6-12, 2025)
-**Nutritional Status:**
+### Fase Aguda: Reposo Intestinal Completo (6-12 de julio, 2025)
+**Estado Nutricional:**
 - **Ayuno completo** por abdomen abierto y fístula enterocutánea
 - **Sonda nasogástrica:** Derivación con gasto biliar moderado
 - **Esquema de soluciones:** Soporte hidroelectrolítico básico
 
-### Metabolic Support Implementation (July 8-12, 2025)
-**Parenteral Nutrition:**
+### Implementación de Soporte Metabólico (8-12 de julio, 2025)
+**Nutrición Parenteral:**
 - **Nutrición parenteral total (NPT):** Basal
-- **Protein Support:** Albumina 1gr/kg/día por hipoalbuminemia
-- **Monitoring:** Parámetros basales, equilibrio metabólico
+- **Soporte Proteico:** Albúmina 1gr/kg/día por hipoalbuminemia
+- **Monitoreo:** Parámetros basales, equilibrio metabólico
 
-### Enteral Stimulation Phase (July 14, 2025)
-**Transition to Enteral Nutrition:**
+### Fase de Estimulación Enteral (14 de julio, 2025)
+**Transición a Nutrición Enteral:**
 - **Inicio de estímulo enteral** con dieta líquida
-- **Progression:** Gradual según tolerancia
-- **Monitoring:** Tolerancia gastrointestinal, gasto por ileostomía
+- **Progresión:** Gradual según tolerancia
+- **Monitoreo:** Tolerancia gastrointestinal, gasto por ileostomía
 
 ---
 
-## Gastrointestinal Support
+## Soporte Gastrointestinal
 
-### Gastric Protection
-**Proton Pump Inhibitor Protocol:**
+### Protección Gástrica
+**Protocolo de Inhibidor de Bomba de Protones:**
 - **Omeprazol:** 1mg/kg/dosis
-- **Duration:** Continuo durante toda la estancia
-- **Indication:** Prevención de úlcera por estrés en paciente crítico
+- **Duración:** Continuo durante toda la estancia
+- **Indicación:** Prevención de úlcera por estrés en paciente crítico
 
-### Abdominal Decompression
-**Nasogastric Drainage:**
+### Descompresión Abdominal
+**Drenaje Nasogástrico:**
 - **Sonda nasogástrica:** Derivación continua
-- **Output:** Gasto biliar en moderada cantidad
-- **Monitoring:** Volumen y características del gasto
+- **Gasto:** Gasto biliar en moderada cantidad
+- **Monitoreo:** Volumen y características del gasto
 
-### Bowel Management
-**Ileostomy Care:**
+### Manejo Intestinal
+**Cuidados de Ileostomía:**
 - **Ileostomía:** Bordes rosados, sin compromiso vascular
-- **Function:** Gasto controlado
-- **Skin Protection:** Cuidados especializados de estoma
+- **Función:** Gasto controlado
+- **Protección de Piel:** Cuidados especializados de estoma
 
 ---
 
-## Renal Support and Monitoring
+## Soporte y Monitoreo Renal
 
-### Renal Function Assessment
-**Baseline Function:**
+### Evaluación de Función Renal
+**Función Basal:**
 - Sin datos de lesión renal aguda por bioquímicos
 - **Uresis:** 2.1ml/kg/24h inicialmente
 - **Creatinina:** Dentro de límites normales
 
-### Fluid Balance Management
-**Diuretic Support:**
-- **Furosemide:** Forzamiento diurético controlado
-- **Albumina:** Reposición simultánea para mantener presión oncótica
-- **Monitoring:** Balance hídrico estricto
+### Manejo de Balance Hídrico
+**Soporte Diurético:**
+- **Furosemida:** Forzamiento diurético controlado
+- **Albúmina:** Reposición simultánea para mantener presión oncótica
+- **Monitoreo:** Balance hídrico estricto
 
-### Edema Management
-**Clinical Findings:**
+### Manejo de Edema
+**Hallazgos Clínicos:**
 - **Edema:** + en extremidades inferiores y genital (fase aguda)
-- **Resolution:** Progresiva con manejo diurético
+- **Resolución:** Progresiva con manejo diurético
 - **Llenado capilar:** Mantenido en 2 segundos
 
 ---
 
-## ICU General Care Protocols
+## Protocolos Generales de Cuidados en UCI
 
-### Infection Prevention
-**Environmental Controls:**
+### Prevención de Infecciones
+**Controles Ambientales:**
 - Cuidados generales de enfermería
 - Cuidados específicos de sondas y catéteres
 - Asepsia estricta en procedimientos
 
-### Monitoring Protocols
-**Vital Signs:**
+### Protocolos de Monitoreo
+**Signos Vitales:**
 - Signos vitales cada hora
 - Vigilancia de curva térmica
 - Monitoreo cardiorrespiratorio continuo
 
-### Specialized Care
-**Critical Care Standards:**
+### Cuidados Especializados
+**Estándares de Cuidados Críticos:**
 - Escala de sedación (RASS)
 - Prevención de úlceras por presión
 - Cuidados de la vía aérea
@@ -255,17 +255,17 @@
 
 ---
 
-## Current Support Status (July 14, 2025)
+## Estado Actual de Soporte (14 de julio, 2025)
 
-### **Respiratory:**
+### **Respiratorio:**
 - Extubado, tolerando aire ambiente
 - Vigilancia de derrame pleural bilateral
 
-### **Hemodynamic:**
+### **Hemodinámico:**
 - Estable sin soporte vasopresor
 - Hemodinámicamente compensado
 
-### **Nutritional:**
+### **Nutricional:**
 - Iniciando estímulo enteral
 - NPT de soporte
 
@@ -275,8 +275,8 @@
 
 ---
 
-## Cross-References
-- **Medications:** [Medication Protocols](./medication-protocols.md)
-- **Surgery:** [Surgical Procedures](./surgical-procedures.md)
-- **Monitoring:** [Diagnostics](../03-diagnostics/)
-- **Assessment:** [Clinical Assessment](../05-assessment/)
+## Referencias Cruzadas
+- **Medicamentos:** [Protocolos de Medicación](./protocolos-medicacion.md)
+- **Cirugía:** [Procedimientos Quirúrgicos](./procedimientos-quirurgicos.md)
+- **Monitoreo:** [Diagnósticos](../03-diagnosticos/)
+- **Evaluación:** [Evaluación Clínica](../05-evaluaciones/)

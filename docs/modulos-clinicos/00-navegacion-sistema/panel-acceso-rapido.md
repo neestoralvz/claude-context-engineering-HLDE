@@ -206,11 +206,11 @@
 ### 🔄 **QUICK NAVIGATION SHORTCUTS**
 
 #### **⚡ ONE-CLICK ACCESS**
-- **[Complete Medication List](../treatment/11-medication-protocols.md)** 
-- **[Full Laboratory Results](../diagnostics/07-laboratory-studies.md)**
-- **[Surgical Procedure Details](../treatment/10-surgical-procedures.md)**
-- **[Complete Timeline](../clinical-timeline/04-chronological-timeline.md)**
-- **[Current Assessment](../assessment/13-current-status.md)**
+- **[Complete Medication List](../04-tratamientos/protocolos-medicacion.md)** 
+- **[Full Laboratory Results](../03-diagnosticos/resultados-laboratorio.md)**
+- **[Surgical Procedure Details](../04-tratamientos/procedimientos-quirurgicos.md)**
+- **[Complete Timeline](../02-cronologia-clinica/progresion-cronologica.md)**
+- **[Current Assessment](../05-evaluaciones/estado-actual.md)**
 
 #### **🔍 SEARCH SHORTCUTS**
 - **Drug Interactions**: [Medication Database]
@@ -273,4 +273,4 @@
 
 ---
 
-**⚡ Return to**: [Master Index](master-index.md) | [Complete Navigation](cross-references.md) | [Patient Timeline](../clinical-timeline/04-chronological-timeline.md)
+**⚡ Return to**: [Master Index](indice-maestro.md) | [Complete Navigation](referencias-cruzadas.md) | [Patient Timeline](../02-cronologia-clinica/progresion-cronologica.md)

@@ -1,19 +1,19 @@
-# Surgical Procedures
+# Procedimientos Quirúrgicos
 
-## Patient Overview
-**Patient:** Dylan Antonio Martinez Labastida  
-**Age:** 8 years  
-**Weight:** 37.70kg (33.70kg during critical phase)  
+## Resumen del Paciente
+**Paciente:** Dylan Antonio Martinez Labastida  
+**Edad:** 8 años  
+**Peso:** 37.70kg (33.70kg durante fase crítica)  
 
 ---
 
-## Surgical Timeline
+## Cronología Quirúrgica
 
-### 1. Initial Surgery - External Institution (Clínica Santa María, Xicotepec)
-**Date:** June 24, 2025  
-**Procedure:** Laparotomía exploradora + Apendicectomía  
+### 1. Cirugía Inicial - Institución Externa (Clínica Santa María, Xicotepec)
+**Fecha:** 24 de junio, 2025  
+**Procedimiento:** Laparotomía exploradora + Apendicectomía  
 
-#### **Findings:**
+#### **Hallazgos:**
 - Apendicitis aguda complicada Fase IV
 - Pelviperitonitis  
 - Material purulento libre aproximadamente 50ml, fétido
@@ -21,27 +21,27 @@
 - Coprolito libre
 - Ciego friable
 
-#### **Surgical Technique:**
+#### **Técnica Quirúrgica:**
 - Apendicectomía completa
 - Drenaje tipo Penrose colocado
 - Lavado de cavidad peritoneal
 
-#### **Complications:**
-- **July 1, 2025:** Fístula enterocutánea con gasto fecaloide por drenaje Penrose y herida quirúrgica
+#### **Complicaciones:**
+- **1 de julio, 2025:** Fístula enterocutánea con gasto fecaloide por drenaje Penrose y herida quirúrgica
 - Dehiscencia de herida quirúrgica (se retira un punto para curación)
 
 ---
 
-### 2. Reconstructive Surgery - Current Institution
-**Date:** July 6, 2025  
-**Procedure:** Laparotomía exploradora + Reparación de perforación + Cierre de muñón  
+### 2. Cirugía Reconstructiva - Institución Actual
+**Fecha:** 6 de julio, 2025  
+**Procedimiento:** Laparotomía exploradora + Reparación de perforación + Cierre de muñón  
 
-#### **Pre-operative Status:**
+#### **Estado Pre-operatorio:**
 - Paciente altamente complicado por tiempo de evolución
 - Fístula enterocutánea activa
 - Sepsis abdominal probable
 
-#### **Surgical Findings:**
+#### **Hallazgos Quirúrgicos:**
 - **Contenido fecaloide:** 300ml
 - **Abdomen hostil:** Bjork 3B
 - **Absceso subhepático:** 50ml de pus
@@ -52,13 +52,13 @@
 - **Ciego en malas condiciones**
 - **Perforación en sigmoides:** 5cm
 
-#### **Surgical Technique:**
+#### **Técnica Quirúrgica:**
 - **Cierre de muñón:** Punto de Halsted con Vicryl 3-0
 - **Reparación primaria de sigmoides:** 1 plano con puntos totales de Vicryl 3-0
 - **Lavado exhaustivo:** Drenaje de todos los abscesos
 - **Abdomen abierto:** Técnica de abdomen abierto para control de daños
 
-#### **Anesthesia Management:**
+#### **Manejo Anestésico:**
 - Intubación: Cánula 5.5 FR con globo fija en 16.5 cm de arcada dental
 - Sangrado intraoperatorio: 300cc
 - Transfusión: 1 concentrado eritrocitario
@@ -66,26 +66,26 @@
 
 ---
 
-### 3. Second Look Surgery 
-**Date:** July 8, 2025  
-**Procedure:** Laparotomía de revisión + Reparación de dehiscencia  
+### 3. Cirugía de Segunda Revisión 
+**Fecha:** 8 de julio, 2025  
+**Procedimiento:** Laparotomía de revisión + Reparación de dehiscencia  
 
-#### **Findings:**
+#### **Hallazgos:**
 - Dehiscencia de reparación previa de sigmoides
 - Necesidad de nueva reparación
 
-#### **Surgical Action:**
+#### **Acción Quirúrgica:**
 - Re-reparación de sigmoides
 - Continúa abdomen abierto
 - Sistema de aspiración artesanal
 
 ---
 
-### 4. Reconstructive Surgery with Ostomy
-**Date:** July 9, 2025  
-**Procedure:** Cierre de pared + Ileostomía  
+### 4. Cirugía Reconstructiva con Ostomía
+**Fecha:** 9 de julio, 2025  
+**Procedimiento:** Cierre de pared + Ileostomía  
 
-#### **Surgical Details:**
+#### **Detalles Quirúrgicos:**
 - **Primera fase quirúrgica:**
   - Introducción de guía metálica hasta obtener extrasístoles
   - Procedimiento de acceso vascular
@@ -96,7 +96,7 @@
   - Sistema de drenaje por contrabertura izquierda
   - Fijación a piel con Prolene 3-0
 
-#### **Post-operative Status:**
+#### **Estado Post-operatorio:**
 - Ileostomía con bordes rosados
 - Sin datos de compromiso vascular
 - Herida quirúrgica sin dehiscencia o secreciones
@@ -105,16 +105,16 @@
 
 ---
 
-## Surgical Complications Summary
+## Resumen de Complicaciones Quirúrgicas
 
-### **Primary Complications:**
+### **Complicaciones Primarias:**
 1. **Apendicitis complicada Fase IV** - Inicial
-2. **Fístula enterocutánea** - July 1, 2025
-3. **Dehiscencia de herida quirúrgica** - July 1, 2025
-4. **Sepsis abdominal** - July 5-6, 2025
-5. **Dehiscencia de reparación intestinal** - July 8, 2025
+2. **Fístula enterocutánea** - 1 de julio, 2025
+3. **Dehiscencia de herida quirúrgica** - 1 de julio, 2025
+4. **Sepsis abdominal** - 5-6 de julio, 2025
+5. **Dehiscencia de reparación intestinal** - 8 de julio, 2025
 
-### **Surgical Management Strategy:**
+### **Estrategia de Manejo Quirúrgico:**
 - **Control de daños:** Abdomen abierto prolongado
 - **Drenaje:** Múltiples abscesos intraabdominales
 - **Derivación:** Ileostomía terminal para protección
@@ -122,23 +122,23 @@
 
 ---
 
-## Prognosis and Follow-up
+## Pronóstico y Seguimiento
 
-### **Current Status:**
+### **Estado Actual:**
 - Ileostomía funcionante
 - Herida quirúrgica estable
 - Resolución gradual de sepsis
 - Tolerancia al destete ventilatorio
 
-### **Future Surgical Plans:**
+### **Planes Quirúrgicos Futuros:**
 - Eventual cierre de ileostomía (cuando condiciones lo permitan)
 - Reconstrucción del tránsito intestinal
 - Seguimiento a largo plazo de adherencias intraabdominales
 
 ---
 
-## Cross-References
-- **Timeline:** [Clinical Timeline](../02-clinical-timeline/)
-- **Complications:** [Assessment](../05-assessment/)
-- **Medications:** [Medication Protocols](./medication-protocols.md)
-- **Support:** [Supportive Care](./supportive-care.md)
+## Referencias Cruzadas
+- **Cronología:** [Cronología Clínica](../02-cronologia-clinica/)
+- **Complicaciones:** [Evaluación](../05-evaluaciones/)
+- **Medicamentos:** [Protocolos de Medicación](./protocolos-medicacion.md)
+- **Soporte:** [Cuidados de Soporte](./cuidados-soporte.md)
