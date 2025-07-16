@@ -19,21 +19,16 @@ jobs:
       with:
         node-version: '18'
         
-    - name: Install medical docs dependencies
+    - name: Install and build medical docs
       run: |
         cd medical-docs
         npm ci
-        
-    - name: Build medical documentation
-      run: |
-        cd medical-docs
         npm run docs:build
         
-    - name: Install main dependencies
-      run: npm ci
-        
-    - name: Build context engineering documentation
-      run: npm run docs:build
+    - name: Install and build context engineering docs
+      run: |
+        npm ci
+        npm run docs:build
         
     - name: Create combined dist directory
       run: |
@@ -49,3 +44,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: combined-dist
         force_orphan: true
+        enable_jekyll: false
