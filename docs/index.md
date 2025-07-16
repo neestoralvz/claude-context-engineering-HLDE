@@ -1,104 +1,92 @@
 ---
 layout: home
 hero:
-  name: "Context Engineering"
-  text: "Sistema Inteligente de Ingeniería de Contexto"
-  tagline: "Meta-comando /context-eng para productividad 100x"
-  image:
-    src: /logo.svg
-    alt: Context Engineering
+  name: "HLDE"
+  text: "Sistema de Expediente Médico Digital"
+  tagline: "Expediente Médico de DYLAN MARTINEZ LABASTIDA - UCI Pediátrica"
   actions:
     - theme: brand
-      text: Comenzar
-      link: /getting-started
+      text: Acceso de Emergencia
+      link: /modulos-clinicos/00-navegacion-sistema/panel-acceso-rapido
     - theme: alt
-      text: Ver en GitHub
-      link: https://github.com/your-org/context-engineering
+      text: Ver Módulos Clínicos
+      link: /modulos-clinicos/
 
 features:
-  - icon: 🧠
-    title: Sistema Adaptativo Inteligente
-    details: 5 fases que se adaptan automáticamente según complejidad (2-5 fases dinámicas)
+  - icon: 🚨
+    title: Acceso de Emergencia
+    details: Información crítica del paciente disponible en ≤1 clic para situaciones de emergencia
   
-  - icon: ⚡
-    title: Ejecución Paralela Optimizada
-    details: Análisis automático de paralelización con 30-60% mejora de rendimiento
+  - icon: 📋
+    title: Módulos Clínicos Organizados
+    details: 6 módulos organizados con información del paciente, cronología, diagnósticos y tratamientos
   
-  - icon: 🤖
-    title: Orquestación Multi-Agente
-    details: Hasta 10 agentes especializados con comunicación bidireccional
+  - icon: 🔍
+    title: Navegación Inteligente
+    details: Sistema de búsqueda optimizado con referencias cruzadas y acceso rápido
   
-  - icon: 📊
-    title: Integración Dinámica de Registry
-    details: Utilización inteligente del 100% de comandos disponibles
+  - icon: 👨‍⚕️
+    title: Flujos de Trabajo Médicos
+    details: Optimizado para rondas médicas, enfermería y consultas de emergencia
   
-  - icon: 🎯
-    title: Auto-Activación Inteligente
-    details: Triggers automáticos basados en complejidad y confianza
+  - icon: 📱
+    title: Acceso Móvil Optimizado
+    details: Interfaz responsive con navegación táctil optimizada para dispositivos móviles
   
-  - icon: 🔄
-    title: Documentación Viva
-    details: Cristalización automática de patrones y actualización continua
+  - icon: 🏥
+    title: Expediente Completo
+    details: Información completa del paciente Dylan Martinez Labastida, 8 años, UCI Pediátrica
 ---
 
-## 🚀 Inicio Rápido
+## 🚨 Acceso de Emergencia
 
-```bash
-# Activar el sistema completo
-/context-eng "tu objetivo aquí"
+::: danger INFORMACIÓN CRÍTICA
+**Paciente**: DYLAN MARTINEZ LABASTIDA (8 años)  
+**Expediente**: 345370  
+**Ubicación**: UCI Pediátrica  
+**Diagnóstico**: Apendicitis complicada con perforación  
+**Estado**: Abdomen abierto, requiere soporte hemodinámico
+:::
 
-# Modo adaptativo con aprendizaje
-/ce auto "implementar autenticación OAuth2"
+### ⚡ Acceso Rápido (≤1 clic)
+- [**Panel de Acceso Rápido**](/modulos-clinicos/00-navegacion-sistema/panel-acceso-rapido) - Información crítica de emergencia
+- [**Estado Actual**](/modulos-clinicos/05-evaluaciones/estado-actual) - Condición médica actual
+- [**Medicamentos Activos**](/modulos-clinicos/04-tratamientos/protocolos-medicacion) - Protocolos de medicación
+- [**Laboratorios Recientes**](/modulos-clinicos/03-diagnosticos/resultados-laboratorio) - Resultados de laboratorio
 
-# Modo inteligente optimizado
-/sw "optimizar rendimiento del sistema"
-```
+## 📋 Módulos Clínicos
 
-## 🎯 Características Principales
+### 🗂️ Sistema de Navegación
+- [**00 - Sistema de Navegación**](/modulos-clinicos/00-navegacion-sistema/) - Acceso rápido y navegación
+- [Índice Maestro](/modulos-clinicos/00-navegacion-sistema/indice-maestro)
+- [Guía de Búsqueda](/modulos-clinicos/00-navegacion-sistema/guia-busqueda)
 
-### **Meta-Principio Filosófico**
-> "Deja de intentar controlar el modelo. Habilitalo."
+### 👤 Información del Paciente
+- [**01 - Datos del Paciente**](/modulos-clinicos/01-datos-paciente/) - Información demográfica y general
 
-### **Sistema de 5 Fases Adaptativo**
-- **Fase 0**: Enrutamiento Inteligente con validación de scripts
-- **Fase 1**: Descubrimiento Orquestado con agentes especializados  
-- **Fase 2**: Planificación Estratégica con selección de modelo
-- **Fase 3**: Ejecución Optimizada con paralelización
-- **Fase 4**: Verificación Multi-dimensional
-- **Fase 5**: Documentación y Cristalización de Patrones
+### 📅 Evolución Clínica
+- [**02 - Cronología Clínica**](/modulos-clinicos/02-cronologia-clinica/) - Evolución temporal del caso
 
-### **Optimización de Rendimiento**
-- **87.78% reducción de contexto** (de ~18K a ~2.2K tokens)
-- **1.8x mejora de velocidad** de navegación
-- **94.2% tasa de éxito** vía metodología sistemática
-- **100% precisión matemática** (22/22 pruebas)
+### 🔬 Diagnósticos
+- [**03 - Diagnósticos**](/modulos-clinicos/03-diagnosticos/) - Estudios y laboratorios
 
-## 📈 Métricas del Sistema
+### 💊 Tratamientos
+- [**04 - Tratamientos**](/modulos-clinicos/04-tratamientos/) - Protocolos de tratamiento
 
-- **68 comandos activos** en 8 categorías organizadas
-- **33 scripts** en 7 categorías de funcionalidad  
-- **11 archivos de principios** integrales
-- **24 componentes React** para UI interactiva
-- **100% integridad de enlaces** y navegación
+### 📊 Evaluaciones
+- [**05 - Evaluaciones**](/modulos-clinicos/05-evaluaciones/) - Evaluaciones médicas actuales
 
-## 🔧 Instalación
+## 🏥 Información del Paciente
 
-El sistema está listo para usar. Solo necesitas invocar el meta-comando:
-
-```bash
-/context-eng [tu_objetivo]
-```
-
-[Ver guía completa de instalación →](/installation)
-
-## 📚 Documentación
-
-- [Guía de Inicio Rápido](/getting-started)
-- [Comando Principal /context-eng](/context-eng)  
-- [Sistema de Fases](/phases)
-- [Ejecución Paralela](/parallel-execution)
-- [Ejemplos de Uso](/reference/examples)
+**Nombre**: Dylan Martinez Labastida  
+**Edad**: 8 años  
+**Expediente**: 345370  
+**Ubicación**: UCI Pediátrica  
+**Diagnóstico Principal**: Apendicitis complicada con perforación  
+**Estado Nutricional**: Sobrepeso (IMC 21.6)
 
 ---
 
-**Status**: Sistema completamente operacional con integración universal de scripts, protocolo de llamadas de herramientas y comunicación bidireccional de agentes.
+**Sistema**: HLDE Médico Digital  
+**Última Actualización**: 2025-07-16  
+**URL**: https://hlde-medicos.loca.lt

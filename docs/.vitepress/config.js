@@ -1,50 +1,46 @@
 export default {
-  title: 'Context Engineering',
-  description: 'Sistema de Ingeniería de Contexto Inteligente - Comando /context-eng',
+  title: 'HLDE - Sistema de Expediente Médico Digital',
+  description: 'Sistema de Expediente Médico Digital - DYLAN MARTINEZ LABASTIDA',
   base: '/',
   ignoreDeadLinks: true,
   
   themeConfig: {
     nav: [
       { text: 'Inicio', link: '/' },
-      { text: 'Guía Rápida', link: '/getting-started' },
-      { text: 'Comando Principal', link: '/context-eng' },
-      { text: 'Módulos Clínicos', link: '/modulos-clinicos/' },
-      { text: 'Referencia', link: '/reference/' }
+      { text: 'Navegación Sistema', link: '/modulos-clinicos/00-navegacion-sistema/' },
+      { text: 'Datos Paciente', link: '/modulos-clinicos/01-datos-paciente/' },
+      { text: 'Cronología', link: '/modulos-clinicos/02-cronologia-clinica/' },
+      { text: 'Diagnósticos', link: '/modulos-clinicos/03-diagnosticos/' },
+      { text: 'Tratamientos', link: '/modulos-clinicos/04-tratamientos/' },
+      { text: 'Evaluaciones', link: '/modulos-clinicos/05-evaluaciones/' }
     ],
 
     sidebar: {
       '/': [
         {
-          text: '🚀 Introducción',
+          text: '🏥 Sistema HLDE',
           items: [
-            { text: 'Qué es Context Engineering', link: '/getting-started' },
-            { text: 'Instalación y Setup', link: '/installation' },
-            { text: 'Primer Uso', link: '/quick-start' }
+            { text: 'Visión General', link: '/modulos-clinicos/' },
+            { text: 'Acceso de Emergencia', link: '/modulos-clinicos/00-navegacion-sistema/' }
           ]
         },
         {
-          text: '🎯 Comando Principal',
+          text: '🗂️ Módulos Clínicos',
           items: [
-            { text: '/context-eng Overview', link: '/context-eng' },
-            { text: 'Auto-Activación', link: '/auto-activation' },
-            { text: 'Fases del Sistema', link: '/phases' }
+            { text: '00 - Sistema de Navegación', link: '/modulos-clinicos/00-navegacion-sistema/' },
+            { text: '01 - Datos del Paciente', link: '/modulos-clinicos/01-datos-paciente/' },
+            { text: '02 - Cronología Clínica', link: '/modulos-clinicos/02-cronologia-clinica/' },
+            { text: '03 - Diagnósticos', link: '/modulos-clinicos/03-diagnosticos/' },
+            { text: '04 - Tratamientos', link: '/modulos-clinicos/04-tratamientos/' },
+            { text: '05 - Evaluaciones', link: '/modulos-clinicos/05-evaluaciones/' }
           ]
         },
         {
-          text: '⚡ Características Avanzadas',
+          text: '🚨 Acceso Rápido',
           items: [
-            { text: 'Sistema Adaptativo', link: '/adaptive-system' },
-            { text: 'Ejecución Paralela', link: '/parallel-execution' },
-            { text: 'Multi-Agente', link: '/multi-agent' }
-          ]
-        },
-        {
-          text: '📚 Referencia',
-          items: [
-            { text: 'Comandos Disponibles', link: '/reference/commands' },
-            { text: 'Ejemplos de Uso', link: '/reference/examples' },
-            { text: 'Troubleshooting', link: '/reference/troubleshooting' }
+            { text: 'Panel de Acceso Rápido', link: '/modulos-clinicos/00-navegacion-sistema/panel-acceso-rapido' },
+            { text: 'Guía de Búsqueda', link: '/modulos-clinicos/00-navegacion-sistema/guia-busqueda' },
+            { text: 'Referencias Cruzadas', link: '/modulos-clinicos/00-navegacion-sistema/referencias-cruzadas' }
           ]
         }
       ],
@@ -83,8 +79,8 @@ export default {
     ],
 
     footer: {
-      message: 'Sistema de Ingeniería de Contexto Inteligente',
-      copyright: 'Copyright © 2025 Context Engineering'
+      message: 'Sistema de Expediente Médico Digital HLDE',
+      copyright: 'Copyright © 2025 HLDE Medical System'
     },
 
     search: {
@@ -92,7 +88,7 @@ export default {
     },
 
     editLink: {
-      pattern: 'https://github.com/your-org/context-engineering/edit/main/docs/:path',
+      pattern: 'https://github.com/your-org/hlde-medical-system/edit/main/docs/:path',
       text: 'Editar esta página'
     }
   },
