@@ -7,16 +7,16 @@
 
 ## Cronología de Evolución Diaria
 
-### 07-07-2025 (Day 1 Post-Op) - CARRO ROJO to ICU Transfer
-**Time**: 18:25  
-**Service**: CARRO ROJO → UCI Transfer  
-**Vital Signs**: T: 36.5°C, FC: 110x', FR: 20x', T/A: 100/70  
+### 07-07-2025 (Día 1 Post-Op) - Traslado CARRO ROJO a UCI
+**Hora**: 18:25  
+**Servicio**: CARRO ROJO → Traslado UCI  
+**Signos Vitales**: T: 36.5°C, FC: 110x', FR: 20x', T/A: 100/70  
 
-**Neurological Status**:
-- RASS: -5 (Deep sedation)
-- Sedation: Midazolam 1795 mcg/kg/hr, Buprenorfina 0.96 mcg/kg/hr
-- Pallor 1+, normocephalic, pinpoint pupils
-- No abnormal movements
+**Estado Neurológico**:
+- RASS: -5 (Sedación profunda)
+- Sedación: Midazolam 1795 mcg/kg/hr, Buprenorfina 0.96 mcg/kg/hr
+- Palidez 1+, normocefálico, pupilas puntiformes
+- Sin movimientos anormales
 
 **Hemodynamic Status**:
 - Aminergic support: Adrenaline 0.3 mcg/kg/min
