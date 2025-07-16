@@ -1,7 +1,7 @@
 export default {
   title: 'Context Engineering',
   description: 'Sistema de Ingeniería de Contexto Inteligente - Comando /context-eng',
-  base: '/context-engineering-docs/',
+  base: '/',
   ignoreDeadLinks: true,
   
   themeConfig: {

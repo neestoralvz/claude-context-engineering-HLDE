@@ -3,22 +3,9 @@ name: Deploy Medical Documentation
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
@@ -34,7 +21,7 @@ jobs:
         cache: 'npm'
         cache-dependency-path: medical-docs/package-lock.json
         
-    - name: Install dependencies
+    - name: Install medical docs dependencies
       run: |
         cd medical-docs
         npm ci
@@ -56,6 +43,7 @@ jobs:
         cp -r medical-docs/.vitepress/dist/* combined-dist/
         mkdir -p combined-dist/context-engineering-docs
         cp -r docs/.vitepress/dist/* combined-dist/context-engineering-docs/
+        echo "neestoralvz.github.io" > combined-dist/CNAME
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
@@ -63,4 +51,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: combined-dist
-        cname: false
+        force_orphan: true
