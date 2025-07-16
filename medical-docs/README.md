@@ -7,10 +7,10 @@
 ## 🚨 Acceso Rápido de Emergencia
 
 ### **Dashboard Crítico**
-- **[🚨 Emergencia](https://your-domain.github.io/medical-record/emergency)** - Información vital inmediata
-- **[💊 Medicamentos](https://your-domain.github.io/medical-record/meds)** - Protocolos activos
-- **[🔬 Laboratorios](https://your-domain.github.io/medical-record/labs)** - Valores críticos
-- **[📊 Estado Hemodinámico](https://your-domain.github.io/medical-record/status)** - Monitoreo continuo
+- **[🚨 Emergencia](https://neestoralvz.github.io/claude-context-engineering-HLDE/emergency)** - Información vital inmediata
+- **[💊 Medicamentos](https://neestoralvz.github.io/claude-context-engineering-HLDE/meds)** - Protocolos activos
+- **[🔬 Laboratorios](https://neestoralvz.github.io/claude-context-engineering-HLDE/labs)** - Valores críticos
+- **[📊 Estado Hemodinámico](https://neestoralvz.github.io/claude-context-engineering-HLDE/status)** - Monitoreo continuo
 
 ## 👤 Información del Paciente
 
@@ -23,11 +23,11 @@
 - **Estado**: Crítico - Requiere soporte hemodinámico
 
 ### **Navegación Principal**
-- **[👤 Información del Paciente](https://your-domain.github.io/medical-record/patient-core)** - Datos centrales
-- **[📋 Cronología Clínica](https://your-domain.github.io/medical-record/timeline)** - Evolución completa
-- **[🔍 Diagnósticos](https://your-domain.github.io/medical-record/diagnostics)** - Estudios y resultados
-- **[💉 Tratamientos](https://your-domain.github.io/medical-record/treatment)** - Protocolos activos
-- **[📝 Evaluaciones](https://your-domain.github.io/medical-record/assessment)** - Evaluaciones médicas
+- **[👤 Información del Paciente](https://neestoralvz.github.io/claude-context-engineering-HLDE/patient-core)** - Datos centrales
+- **[📋 Cronología Clínica](https://neestoralvz.github.io/claude-context-engineering-HLDE/timeline)** - Evolución completa
+- **[🔍 Diagnósticos](https://neestoralvz.github.io/claude-context-engineering-HLDE/diagnostics)** - Estudios y resultados
+- **[💉 Tratamientos](https://neestoralvz.github.io/claude-context-engineering-HLDE/treatment)** - Protocolos activos
+- **[📝 Evaluaciones](https://neestoralvz.github.io/claude-context-engineering-HLDE/assessment)** - Evaluaciones médicas
 
 ## 🎯 Características del Sistema
 
@@ -83,10 +83,10 @@ npm run deploy
 ```
 
 ### **URLs de Acceso**
-- **Sitio Principal**: `https://your-domain.github.io/medical-record/`
-- **Emergencia**: `https://your-domain.github.io/medical-record/emergency`
-- **Paciente**: `https://your-domain.github.io/medical-record/patient-core`
-- **Navegación**: `https://your-domain.github.io/medical-record/navigate`
+- **Sitio Principal**: `https://neestoralvz.github.io/claude-context-engineering-HLDE/`
+- **Emergencia**: `https://neestoralvz.github.io/claude-context-engineering-HLDE/emergency`
+- **Paciente**: `https://neestoralvz.github.io/claude-context-engineering-HLDE/patient-core`
+- **Navegación**: `https://neestoralvz.github.io/claude-context-engineering-HLDE/navigate`
 
 ## 📋 Estructura del Proyecto
 

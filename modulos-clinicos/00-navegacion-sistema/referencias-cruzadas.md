@@ -1,21 +1,21 @@
-# HLDE CROSS-REFERENCE SYSTEM
+# SISTEMA DE REFERENCIAS CRUZADAS HLDE
 
-## 🔗 BIDIRECTIONAL LINKING MATRIX
+## 🔗 MATRIZ DE ENLACES BIDIRECCIONALES
 
-### MODULE INTERCONNECTIONS
+### INTERCONEXIONES DE MÓDULOS
 
-#### Module 01: Patient Core
-**demographic-profile.md** ✅ AVAILABLE
-- **Links TO**:
-  - [Module 2 - Medical Background] ⚠️ PENDING
-  - [Module 4 - Surgical Timeline](../04-treatment/surgical-procedures.md) ✅ FUNCTIONAL
-  - [Module 11 - Current Medications] ⚠️ PENDING
-  - [Module 13 - Current Status] ⚠️ PENDING
+#### Módulo 01: Núcleo del Paciente
+**perfil-demografico.md** ✅ DISPONIBLE
+- **Enlaces HACIA**:
+  - [Módulo 2 - Antecedentes Médicos] ⚠️ PENDIENTE
+  - [Módulo 4 - Cronología Quirúrgica](../04-tratamientos/procedimientos-quirurgicos.md) ✅ FUNCIONAL
+  - [Módulo 11 - Medicamentos Actuales] ⚠️ PENDIENTE
+  - [Módulo 13 - Estado Actual] ⚠️ PENDIENTE
 
-- **Links FROM**:
-  - All modules reference patient demographics
-  - Emergency access protocols
-  - Family communication needs
+- **Enlaces DESDE**:
+  - Todos los módulos referencian demografía del paciente
+  - Protocolos de acceso de emergencia
+  - Necesidades de comunicación familiar
 
 #### Module 04: Treatment - Surgical Procedures  
 **surgical-procedures.md** ✅ AVAILABLE

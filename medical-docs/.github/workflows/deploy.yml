@@ -6,6 +6,17 @@ on:
   pull_request:
     branches: [ main ]
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -28,23 +39,28 @@ jobs:
         cd medical-docs
         npm ci
         
-    - name: Build documentation
+    - name: Build medical documentation
       run: |
         cd medical-docs
         npm run docs:build
+        
+    - name: Install main dependencies
+      run: npm ci
+        
+    - name: Build context engineering documentation
+      run: npm run docs:build
+        
+    - name: Create combined dist directory
+      run: |
+        mkdir -p combined-dist
+        cp -r medical-docs/.vitepress/dist/* combined-dist/
+        mkdir -p combined-dist/context-engineering-docs
+        cp -r docs/.vitepress/dist/* combined-dist/context-engineering-docs/
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: medical-docs/.vitepress/dist
-        destination_dir: medical-record
-        
-    - name: Deploy Context Engineering Documentation
-      uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/main'
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: docs/.vitepress/dist
-        destination_dir: context-engineering-docs
+        publish_dir: combined-dist
+        cname: false

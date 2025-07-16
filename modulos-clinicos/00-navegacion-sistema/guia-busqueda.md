@@ -1,14 +1,14 @@
-# HLDE Search & Discovery Guide
+# HLDE Guía de Búsqueda y Descubrimiento
 ## Dylan Antonio Martinez Labastida - ID: 345370
 
 ---
-**🔍 INTELLIGENT SEARCH SYSTEM** | **🎯 RAPID INFORMATION DISCOVERY**
+**🔍 SISTEMA DE BÚSQUEDA INTELIGENTE** | **🎯 DESCUBRIMIENTO RÁPIDO DE INFORMACIÓN**
 ---
 
-### 🚀 **SEARCH STRATEGY OVERVIEW**
+### 🚀 **RESUMEN DE ESTRATEGIA DE BÚSQUEDA**
 
-#### **Search Efficiency**: <2 Seconds to Relevant Content | 94% First-Result Accuracy
-#### **Search Coverage**: 100% Content Indexed | Emergency-Optimized Pathways
+#### **Eficiencia de Búsqueda**: <2 Segundos a Contenido Relevante | 94% Precisión en Primer Resultado
+#### **Cobertura de Búsqueda**: 100% Contenido Indexado | Rutas Optimizadas para Emergencias
 
 ---
 

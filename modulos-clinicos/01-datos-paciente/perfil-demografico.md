@@ -44,36 +44,36 @@
 
 ---
 
-## 3. Family History (Antecedentes Heredofamiliares)
+## 3. Antecedentes Heredofamiliares
 
-### Maternal Information
+### Información Materna
 - **Madre**: 40 años
 - **Ocupación**: Ama de casa
 - **Escolaridad**: Secundaria completa
 - **Hábitos**: Alcoholismo, tabaquismo, toxicomanías negadas
 - **Condiciones Médicas**: Hipertensión arterial sistémica sin tratamiento
 
-### Paternal Information
+### Información Paterna
 - **Padre**: 38 años
 - **Ocupación**: Obrero en construcción
 - **Escolaridad**: Secundaria completa
 - **Hábitos**: Alcoholismo, tabaquismo, toxicomanías negadas
 - **Estado de Salud**: Aparentemente sano
 
-### Siblings
+### Hermanos
 - **Hermano 1**: 20 años, masculino, aparentemente sano
 - **Hermano 2**: 5 años, masculino, aparentemente sano
 - **Hermano 3**: 1 año, masculino, aparentemente sano
 
-### Hereditary Patterns
+### Patrones Hereditarios
 - **Línea Materna**: HAS (Hipertensión Arterial Sistémica) y enfermedad renal
 - **Línea Paterna**: Interrogados y negados
 
 ---
 
-## 4. Personal History - Non-Pathological (Antecedentes Personales No Patológicos)
+## 4. Antecedentes Personales No Patológicos
 
-### Housing Conditions
+### Condiciones de Vivienda
 - **Tipo de Vivienda**: Casa propia, en obra gris
 - **Servicios Básicos**: Luz, agua potable, drenaje
 - **Infraestructura**: Baño extradomiciliario
@@ -81,12 +81,12 @@
 - **Hacinamiento**: Negativo
 - **Convivencia con Animales**: Negado
 
-### Nutrition and Hygiene
+### Nutrición e Higiene
 - **Alimentación**: Regular en calidad y cantidad
 - **Higiene Personal**: Baño y cambio de ropa diariamente
 - **Higiene Bucal**: 1 vez al día
 
-### Developmental History
+### Historia del Desarrollo
 - **Neurodesarrollo**: Adecuado aprovechamiento escolar con promedio de 8
 - **Educación**: Cursando 3ro de primaria
 - **Socialización**: Refiere adecuada socialización
