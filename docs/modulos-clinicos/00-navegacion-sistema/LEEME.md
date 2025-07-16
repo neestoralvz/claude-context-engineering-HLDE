@@ -1,5 +1,5 @@
-# HLDE Navigation Framework - System Documentation
-## Emergency Medical Record Navigation & Quick Access System
+# Marco de Navegación HLDE - Documentación del Sistema
+## Sistema de Navegación de Expediente Médico de Emergencia y Acceso Rápido
 
 ---
 **🎯 SISTEMA IMPLEMENTADO** | **⚡ Marco de Navegación Desplegado Exitosamente**
@@ -40,112 +40,112 @@ Protocolos de Emergencia: 5 rutas de acceso instantáneo
   - Anclajes de referencias cruzadas
 - **Eficiencia de Acceso**: ≤2 clics a cualquier información
 
-**2. [Quick Access Dashboard](quick-access-dashboard.md)** - Emergency Information
-- **Function**: Critical patient data for emergency situations
-- **Content**: 275 lines | 8.8KB
-- **Features**:
-  - Instant medication reference
-  - Critical lab values
-  - Hemodynamic status
-  - Emergency contact protocols
-- **Access Efficiency**: ≤1 click to life-critical data
+**2. [Panel de Acceso Rápido](panel-acceso-rapido.md)** - Información de Emergencia
+- **Función**: Datos críticos del paciente para situaciones de emergencia
+- **Contenido**: 275 líneas | 8.8KB
+- **Características**:
+  - Referencia instantánea de medicamentos
+  - Valores críticos de laboratorio
+  - Estado hemodinámico
+  - Protocolos de contacto de emergencia
+- **Eficiencia de Acceso**: ≤1 clic a datos críticos para la vida
 
-**3. [Cross-References](cross-references.md)** - Intelligent Linking System
-- **Function**: Bidirectional navigation between related content
-- **Content**: 246 lines | 8.0KB
-- **Features**:
-  - System-based cross-references
-  - Temporal navigation links
-  - Workflow-based pathways
-  - Diagnosis-specific connections
-- **Cross-Reference Coverage**: 96% of content linked
+**3. [Referencias Cruzadas](referencias-cruzadas.md)** - Sistema de Vinculación Inteligente
+- **Función**: Navegación bidireccional entre contenido relacionado
+- **Contenido**: 246 líneas | 8.0KB
+- **Características**:
+  - Referencias cruzadas basadas en sistemas
+  - Enlaces de navegación temporal
+  - Rutas basadas en flujo de trabajo
+  - Conexiones específicas de diagnóstico
+- **Cobertura de Referencias Cruzadas**: 96% del contenido vinculado
 
-**4. [Search Guide](search-guide.md)** - Discovery & Navigation
-- **Function**: Comprehensive search and discovery system
-- **Content**: 245 lines | 14.3KB
-- **Features**:
-  - Medical term directory
-  - Emergency search shortcuts
-  - Mobile-optimized interface
-  - Voice search commands
-- **Search Performance**: <2 seconds, 94% accuracy
-
----
-
-### 🚨 **EMERGENCY ACCESS PROTOCOLS**
-
-#### **⚡ INSTANT CRITICAL ACCESS** (≤1 Click)
-1. **Life-Threatening Emergency** → [Quick Access Dashboard](quick-access-dashboard.md#critical-status-overview)
-2. **Active Medications** → [Medication Reference](quick-access-dashboard.md#emergency-medication-reference)
-3. **Current Status** → [Real-Time Condition](quick-access-dashboard.md#critical-status-overview)
-4. **Emergency Contacts** → [Response Team](quick-access-dashboard.md#emergency-contacts)
-5. **Surgical Status** → [Open Abdomen Management](quick-access-dashboard.md#surgical-status)
-
-#### **🔴 CRITICAL INFORMATION PATHWAYS** (≤2 Clicks)
-- **Laboratory Values** → [Master Index](master-index.md#latest-laboratory) → [Latest Results]
-- **Hemodynamic Status** → [Quick Dashboard](quick-access-dashboard.md#hemodynamic-status) → [Support Details]
-- **Infection Management** → [Master Index](master-index.md#active-medications) → [Antibiotic Protocols]
-- **Respiratory Support** → [Quick Dashboard](quick-access-dashboard.md#respiratory-management) → [Ventilator Settings]
+**4. [Guía de Búsqueda](guia-busqueda.md)** - Descubrimiento y Navegación
+- **Función**: Sistema integral de búsqueda y descubrimiento
+- **Contenido**: 245 líneas | 14.3KB
+- **Características**:
+  - Directorio de terminología médica
+  - Atajos de búsqueda de emergencia
+  - Interfaz optimizada para móviles
+  - Comandos de búsqueda por voz
+- **Rendimiento de Búsqueda**: <2 segundos, 94% precisión
 
 ---
 
-### 🏥 **MEDICAL PROFESSIONAL WORKFLOWS**
+### 🚨 **PROTOCOLOS DE ACCESO DE EMERGENCIA**
 
-#### **👨‍⚕️ PHYSICIAN ROUNDS OPTIMIZATION**
-**Optimized 3-Step Workflow:**
-1. **[Current Status Overview](master-index.md#current-medical-status)** → Real-time patient condition
-2. **[Latest Laboratory Data](master-index.md#latest-laboratory)** → Critical values and trends  
-3. **[Treatment Assessment](master-index.md#clinical-assessment)** → Current management evaluation
+#### **⚡ ACCESO CRÍTICO INSTANTÁNEO** (≤1 Clic)
+1. **Emergencia que Amenaza la Vida** → [Panel de Acceso Rápido](panel-acceso-rapido.md#resumen-de-estado-critico)
+2. **Medicamentos Activos** → [Referencia de Medicamentos](panel-acceso-rapido.md#referencia-de-medicamentos-de-emergencia)
+3. **Estado Actual** → [Condición en Tiempo Real](panel-acceso-rapido.md#resumen-de-estado-critico)
+4. **Contactos de Emergencia** → [Equipo de Respuesta](panel-acceso-rapido.md#contactos-de-emergencia)
+5. **Estado Quirúrgico** → [Manejo de Abdomen Abierto](panel-acceso-rapido.md#estado-quirurgico)
 
-**Advanced Workflow Support:**
-- **Problem-focused navigation** → Disease-specific pathways
-- **System-based assessment** → Organ system shortcuts
-- **Timeline integration** → Historical context access
-
-#### **👩‍⚕️ NURSING SHIFT INTEGRATION**
-**Streamlined 4-Step Process:**
-1. **[Vital Signs](quick-access-dashboard.md#hemodynamic-status)** → Current monitoring data
-2. **[Medication Schedule](quick-access-dashboard.md#emergency-medication-reference)** → Active drug protocols
-3. **[System Assessment](quick-access-dashboard.md#critical-status-overview)** → Multi-system evaluation
-4. **[Documentation](master-index.md#recent-evolution)** → Progress note access
-
-#### **🏥 EMERGENCY CONSULTATION**
-**Rapid Assessment Protocol:**
-1. **[Patient Background](master-index.md#patient-overview)** → Essential demographic data
-2. **[Active Diagnoses](master-index.md#active-diagnoses)** → Current medical problems
-3. **[Current Medications](master-index.md#active-medications)** → Drug therapy review
-4. **[Allergy Status](master-index.md#allergies-alerts)** → Safety verification
+#### **🔴 RUTAS DE INFORMACIÓN CRÍTICA** (≤2 Clics)
+- **Valores de Laboratorio** → [Índice Maestro](indice-maestro.md#laboratorio-reciente) → [Resultados Recientes]
+- **Estado Hemodinámico** → [Panel Rápido](panel-acceso-rapido.md#estado-hemodinamico) → [Detalles de Soporte]
+- **Manejo de Infección** → [Índice Maestro](indice-maestro.md#medicamentos-activos) → [Protocolos Antibióticos]
+- **Soporte Respiratorio** → [Panel Rápido](panel-acceso-rapido.md#manejo-respiratorio) → [Configuración de Ventilador]
 
 ---
 
-### 🔍 **SEARCH & DISCOVERY CAPABILITIES**
+### 🏥 **FLUJOS DE TRABAJO DE PROFESIONALES MÉDICOS**
 
-#### **🎯 INTELLIGENT SEARCH FEATURES**
-**Emergency Fast-Track Searches:**
-- **"CRITICAL"** → Instant emergency dashboard
-- **"MEDS"** → Active medication protocols
-- **"LABS"** → Latest laboratory results
-- **"STATUS"** → Current patient condition
-- **"SURGERY"** → Surgical management status
+#### **👨‍⚕️ OPTIMIZACIÓN DE RONDAS MÉDICAS**
+**Flujo de Trabajo Optimizado de 3 Pasos:**
+1. **[Resumen del Estado Actual](indice-maestro.md#estado-medico-actual)** → Condición del paciente en tiempo real
+2. **[Datos de Laboratorio Recientes](indice-maestro.md#laboratorio-reciente)** → Valores críticos y tendencias  
+3. **[Evaluación del Tratamiento](indice-maestro.md#evaluacion-clinica)** → Evaluación del manejo actual
 
-**Medical Professional Search:**
-- **Medical terminology recognition** → 200+ terms indexed
-- **Medication cross-reference** → Drug-indication mapping
-- **Procedure timeline** → Chronological surgical history
-- **Laboratory trending** → Value progression analysis
+**Soporte de Flujo de Trabajo Avanzado:**
+- **Navegación enfocada en problemas** → Rutas específicas de enfermedades
+- **Evaluación basada en sistemas** → Atajos de sistemas de órganos
+- **Integración de línea de tiempo** → Acceso a contexto histórico
 
-#### **📱 MOBILE-OPTIMIZED ACCESS**
-**Touch-Friendly Navigation:**
-- **Large touch targets** → Emergency-optimized buttons
-- **Gesture support** → Swipe navigation between modules
-- **Voice command integration** → Hands-free operation
-- **Offline access** → Critical information cached
+#### **👩‍⚕️ INTEGRACIÓN DE TURNOS DE ENFERMERÍA**
+**Proceso Simplificado de 4 Pasos:**
+1. **[Signos Vitales](panel-acceso-rapido.md#estado-hemodinamico)** → Datos de monitoreo actuales
+2. **[Horario de Medicamentos](panel-acceso-rapido.md#referencia-de-medicamentos-de-emergencia)** → Protocolos de medicamentos activos
+3. **[Evaluación del Sistema](panel-acceso-rapido.md#resumen-de-estado-critico)** → Evaluación multisistémica
+4. **[Documentación](indice-maestro.md#evolucion-reciente)** → Acceso a notas de progreso
+
+#### **🏥 CONSULTA DE EMERGENCIA**
+**Protocolo de Evaluación Rápida:**
+1. **[Antecedentes del Paciente](indice-maestro.md#resumen-del-paciente)** → Datos demográficos esenciales
+2. **[Diagnósticos Activos](indice-maestro.md#diagnosticos-activos)** → Problemas médicos actuales
+3. **[Medicamentos Actuales](indice-maestro.md#medicamentos-activos)** → Revisión de terapia farmacológica
+4. **[Estado de Alergias](indice-maestro.md#alertas-de-alergias)** → Verificación de seguridad
 
 ---
 
-### 🔗 **CROSS-REFERENCE SYSTEM ANALYSIS**
+### 🔍 **CAPACIDADES DE BÚSQUEDA Y DESCUBRIMIENTO**
 
-#### **📊 BIDIRECTIONAL LINKING METRICS**
+#### **🎯 CARACTERÍSTICAS DE BÚSQUEDA INTELIGENTE**
+**Búsquedas Rápidas de Emergencia:**
+- **"CRÍTICO"** → Dashboard de emergencia instantáneo
+- **"MEDICAMENTOS"** → Protocolos de medicación activos
+- **"LABORATORIO"** → Resultados de laboratorio recientes
+- **"ESTADO"** → Condición actual del paciente
+- **"CIRUGÍA"** → Estado de manejo quirúrgico
+
+**Búsqueda Profesional Médica:**
+- **Reconocimiento de terminología médica** → 200+ términos indexados
+- **Referencia cruzada de medicamentos** → Mapeo de fármacos-indicaciones
+- **Línea de tiempo de procedimientos** → Historial quirúrgico cronológico
+- **Tendencias de laboratorio** → Análisis de progresión de valores
+
+#### **📱 ACCESO OPTIMIZADO PARA MÓVILES**
+**Navegación Amigable al Tacto:**
+- **Objetivos de toque grandes** → Botones optimizados para emergencias
+- **Soporte de gestos** → Navegación deslizante entre módulos
+- **Integración de comandos de voz** → Operación manos libres
+- **Acceso fuera de línea** → Información crítica en caché
+
+---
+
+### 🔗 **ANÁLISIS DEL SISTEMA DE REFERENCIAS CRUZADAS**
+
+#### **📊 MÉTRICAS DE VINCULACIÓN BIDIRECCIONAL**
 ```
 Cross-Reference Coverage: 96% of content linked
 System Integration: 98% of medical systems connected

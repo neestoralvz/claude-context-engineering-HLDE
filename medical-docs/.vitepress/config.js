@@ -1,7 +1,7 @@
 export default {
   title: 'Expediente Médico Digital - HLDE',
   description: 'Sistema de Expediente Médico Digital para DYLAN MARTINEZ LABASTIDA',
-  base: '/medical-record/',
+  base: '/claude-context-engineering-HLDE/',
   
   themeConfig: {
     nav: [
