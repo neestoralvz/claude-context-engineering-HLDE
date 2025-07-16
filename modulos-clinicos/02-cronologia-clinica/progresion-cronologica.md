@@ -1,18 +1,18 @@
-# HLDE Clinical Timeline - Chronological Progression
+# HLDE Cronología Clínica - Progresión Cronológica
 
-## Patient Information
-- **Patient**: Dylan Antonio Martinez Labastida
-- **DOB**: 15.10.2016 (Age: 8 years, 8 months)
-- **Gender**: Male
-- **Timeline Span**: 23.06.25 - 15.07.25 (22 days)
+## Información del Paciente
+- **Paciente**: Dylan Antonio Martinez Labastida
+- **Fecha de Nacimiento**: 15.10.2016 (Edad: 8 años, 8 meses)
+- **Sexo**: Masculino
+- **Período de Cronología**: 23.06.25 - 15.07.25 (22 días)
 
 ---
 
-## 📅 Complete Clinical Timeline
+## 📅 Cronología Clínica Completa
 
-### **Phase I: Initial Presentation & First Intervention**
+### **Fase I: Presentación Inicial y Primera Intervención**
 
-#### **23.06.25** - Symptom Onset
+#### **23.06.25** - Inicio de Síntomas
 ```
 🔹 INITIAL SYMPTOMS
 - Emesis: 2 episodes, gastroalimentary content, minimal quantity

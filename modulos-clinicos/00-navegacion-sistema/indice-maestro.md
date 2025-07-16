@@ -1,8 +1,8 @@
-# HLDE Medical Record Master Index
-## Dylan Antonio Martinez Labastida - Patient ID: 345370
+# HLDE Índice Maestro de Expediente Médico
+## Dylan Antonio Martinez Labastida - ID Paciente: 345370
 
 ---
-**🔥 EMERGENCY ACCESS - Critical Information** | **⚡ ≤2 CLICKS TO VITAL DATA**
+**🔥 ACCESO DE EMERGENCIA - Información Crítica** | **⚡ ≤2 CLICS A DATOS VITALES**
 ---
 
 ### 🚨 **EMERGENCY QUICK ACCESS** (Critical Information)
